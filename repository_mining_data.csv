@@ -1,610 +1,439 @@
-1,JSONata4Java,657,139,0,0,0,0,0,0,0,0
-2,styx,0,0,0,0,0,0,0,0,0,0
-3,clone_repo_log.log,0,0,0,0,0,0,0,0,0,0
-4,fix-orchestra,0,0,0,0,0,0,0,0,0,0
-5,Alpha,0,0,0,0,0,0,0,0,0,0
-6,parkandrideAPI,0,0,0,0,0,0,0,0,0,0
-7,platform_frameworks_support,0,0,0,0,0,0,0,0,0,0
-8,abstools,0,0,0,0,0,0,0,0,0,0
-9,KROKI-mockup-tool,0,0,0,0,0,0,0,0,0,0
-10,simplehbase,0,0,0,0,0,0,0,0,0,0
-11,rumble,0,0,0,0,0,0,0,0,0,0
-12,Portugol-Studio,0,0,0,0,0,0,0,0,0,0
-13,fuzzyc2cpg,0,0,0,0,0,0,0,0,0,0
-14,eagle,0,0,0,0,0,0,0,0,0,0
-15,groovy,0,0,0,0,0,0,0,0,0,0
-16,theta,0,0,0,0,0,0,0,0,0,0
-17,MaritimeCloud,0,0,0,0,0,0,0,0,0,0
-18,Apktool-android,0,0,0,0,0,0,0,0,0,0
-19,grcuda,0,0,0,0,0,0,0,0,0,0
-20,Lucene-7.5.0,0,0,0,0,0,0,0,0,0,0
-21,chronix.server,0,0,0,0,0,0,0,0,0,0
-22,shadow,0,0,0,0,0,0,0,0,0,0
-23,jmint,0,0,0,0,0,0,0,0,0,0
-24,Arend,0,0,0,0,0,0,0,0,0,0
-25,gaia,0,0,0,0,0,0,0,0,0,0
-26,Alchitry-Labs,0,0,0,0,0,0,0,0,0,0
-27,ANTLR_MPS,0,0,0,0,0,0,0,0,0,0
-28,Enkel,0,0,0,0,0,0,0,0,0,0
-29,Siamese,0,0,0,0,0,0,0,0,0,0
-30,atlas,0,0,0,0,0,0,0,0,0,0
-31,Oscar,0,0,0,0,0,0,0,0,0,0
-32,antlr4ide,0,0,0,0,0,0,0,0,0,0
-33,antlr-tutorial,0,0,0,0,0,0,0,0,0,0
-34,SourceFu,0,0,0,0,0,0,0,0,0,0
-35,components,0,0,0,0,0,0,0,0,0,0
-36,CQL,0,0,0,0,0,0,0,0,0,0
-37,ANTLR4-SqlBase,0,0,0,0,0,0,0,0,0,0
-38,jaybird,0,0,0,0,0,0,0,0,0,0
-39,bigbash,0,0,0,0,0,0,0,0,0,0
-40,SNL-Compiler,0,0,0,0,0,0,0,0,0,0
-41,antlr4-sandbox,0,0,0,0,0,0,0,0,0,0
-42,TypeScript,0,0,0,0,0,0,0,0,0,0
-43,EmojIDE,0,0,0,0,0,0,0,0,0,0
-44,antlr4-intellij-adaptor,0,0,0,0,0,0,0,0,0,0
-45,jobson,0,0,0,0,0,0,0,0,0,0
-46,sonar-openedge,0,0,0,0,0,0,0,0,0,0
-47,apex-malhar,0,0,0,0,0,0,0,0,0,0
-48,Objc2Lua,0,0,0,0,0,0,0,0,0,0
-49,COOL-Compiler,0,0,0,0,0,0,0,0,0,0
-50,geotoolkit,0,0,0,0,0,0,0,0,0,0
-51,gemfire-fe,0,0,0,0,0,0,0,0,0,0
-52,Illarion-Java,0,0,0,0,0,0,0,0,0,0
-53,sample.csv,0,0,0,0,0,0,0,0,0,0
-54,Simulizer,0,0,0,0,0,0,0,0,0,0
-55,FastAsyncWorldEdit-1.13,0,0,0,0,0,0,0,0,0,0
-56,oxTrust,0,0,0,0,0,0,0,0,0,0
-57,jetbrains-plugin-st4,0,0,0,0,0,0,0,0,0,0
-58,JuliaDT,0,0,0,0,0,0,0,0,0,0
-59,intellij-plugin-v4,0,0,0,0,0,0,0,0,0,0
-60,jkind,0,0,0,0,0,0,0,0,0,0
-61,JsDroidMobile,0,0,0,0,0,0,0,0,0,0
-62,vulnerability-assessment-tool,0,0,0,0,0,0,0,0,0,0
-63,cst,0,0,0,0,0,0,0,0,0,0
-64,Enkel-JVM-language,0,0,0,0,0,0,0,0,0,0
-65,Hydrograph,0,0,0,0,0,0,0,0,0,0
-66,Pinot,0,0,0,0,0,0,0,0,0,0
-67,graylog-plugin-pipeline-processor,0,0,0,0,0,0,0,0,0,0
-68,disthene-reader,0,0,0,0,0,0,0,0,0,0
-69,APM,0,0,0,0,0,0,0,0,0,0
-70,beam,0,0,0,0,0,0,0,0,0,0
-71,compiler2016,0,0,0,0,0,0,0,0,0,0
-72,antlr-java-parser,0,0,0,0,0,0,0,0,0,0
-73,MPL,0,0,0,0,0,0,0,0,0,0
-74,opendb,0,0,0,0,0,0,0,0,0,0
-75,WorldEdit,0,0,0,0,0,0,0,0,0,0
-76,SKON,0,0,0,0,0,0,0,0,0,0
-77,botsing,0,0,0,0,0,0,0,0,0,0
-78,beast2,0,0,0,0,0,0,0,0,0,0
-79,aliyun-odps-console,0,0,0,0,0,0,0,0,0,0
-80,jabref,0,0,0,0,0,0,0,0,0,0
-81,hive,0,0,0,0,0,0,0,0,0,0
-82,SSM,0,0,0,0,0,0,0,0,0,0
-83,graylog2-server,0,0,0,0,0,0,0,0,0,0
-84,Modulo7,0,0,0,0,0,0,0,0,0,0
-85,directory-scimple,0,0,0,0,0,0,0,0,0,0
-86,rewrite,0,0,0,0,0,0,0,0,0,0
-87,ankor-framework,0,0,0,0,0,0,0,0,0,0
-88,SpinalTap,0,0,0,0,0,0,0,0,0,0
-89,PlayWithCompiler,0,0,0,0,0,0,0,0,0,0
-90,jetbrains-plugin-sample,0,0,0,0,0,0,0,0,0,0
-91,SCIMple-Identity,0,0,0,0,0,0,0,0,0,0
-92,RESOLVE,0,0,0,0,0,0,0,0,0,0
-93,drill,0,0,0,0,0,0,0,0,0,0
-94,zemberek-nlp,0,0,0,0,0,0,0,0,0,0
-95,bvr,0,0,0,0,0,0,0,0,0,0
-96,iBioSim,0,0,0,0,0,0,0,0,0,0
-97,robozonky,0,0,0,0,0,0,0,0,0,0
-98,sqat,0,0,0,0,0,0,0,0,0,0
-99,snowride,0,0,0,0,0,0,0,0,0,0
-100,linden,0,0,0,0,0,0,0,0,0,0
-101,Gaalop,0,0,0,0,0,0,0,0,0,0
-102,Refactoring-Bot,0,0,0,0,0,0,0,0,0,0
-103,DotNetCore-for-NetBeans,0,0,0,0,0,0,0,0,0,0
-104,alchemy,0,0,0,0,0,0,0,0,0,0
-105,Scratch-ApuC,0,0,0,0,0,0,0,0,0,0
-106,blaze-persistence,0,0,0,0,0,0,0,0,0,0
-107,cloudml,0,0,0,0,0,0,0,0,0,0
-108,slang,0,0,0,0,0,0,0,0,0,0
-109,SqlParser,0,0,0,0,0,0,0,0,0,0
-110,Algogo,0,0,0,0,0,0,0,0,0,0
-111,clone_repositories.sh,0,0,0,0,0,0,0,0,0,0
-112,toys,0,0,0,0,0,0,0,0,0,0
-113,antlr4-python,0,0,0,0,0,0,0,0,0,0
-114,cava,0,0,0,0,0,0,0,0,0,0
-115,apt,0,0,0,0,0,0,0,0,0,0
-116,SearchRepair,0,0,0,0,0,0,0,0,0,0
-117,FHIR,0,0,0,0,0,0,0,0,0,0
-118,SourceCounter,0,0,0,0,0,0,0,0,0,0
-119,AntlrListenerVisitorComparison,0,0,0,0,0,0,0,0,0,0
-120,PermissionsEx,0,0,0,0,0,0,0,0,0,0
-121,HUSACCT,0,0,0,0,0,0,0,0,0,0
-122,MSPaintIDE,0,0,0,0,0,0,0,0,0,0
-1,JSONata4Java,657,139,0,0,0,0,0,0,0,0
-2,styx,0,0,0,0,0,0,0,0,0,0
-3,clone_repo_log.log,0,0,0,0,0,0,0,0,0,0
-4,fix-orchestra,0,0,0,0,0,0,0,0,0,0
-5,Alpha,0,0,0,0,0,0,0,0,0,0
-6,parkandrideAPI,0,0,0,0,0,0,0,0,0,0
-7,platform_frameworks_support,0,0,0,0,0,0,0,0,0,0
-8,abstools,0,0,0,0,0,0,0,0,0,0
-9,KROKI-mockup-tool,0,0,0,0,0,0,0,0,0,0
-10,simplehbase,0,0,0,0,0,0,0,0,0,0
-11,rumble,0,0,0,0,0,0,0,0,0,0
-12,Portugol-Studio,0,0,0,0,0,0,0,0,0,0
-13,fuzzyc2cpg,0,0,0,0,0,0,0,0,0,0
-14,eagle,0,0,0,0,0,0,0,0,0,0
-15,groovy,0,0,0,0,0,0,0,0,0,0
-16,theta,0,0,0,0,0,0,0,0,0,0
-17,MaritimeCloud,0,0,0,0,0,0,0,0,0,0
-18,Apktool-android,0,0,0,0,0,0,0,0,0,0
-19,grcuda,0,0,0,0,0,0,0,0,0,0
-20,Lucene-7.5.0,0,0,0,0,0,0,0,0,0,0
-21,chronix.server,0,0,0,0,0,0,0,0,0,0
-22,shadow,0,0,0,0,0,0,0,0,0,0
-23,jmint,0,0,0,0,0,0,0,0,0,0
-24,Arend,0,0,0,0,0,0,0,0,0,0
-25,gaia,0,0,0,0,0,0,0,0,0,0
-26,Alchitry-Labs,0,0,0,0,0,0,0,0,0,0
-27,ANTLR_MPS,0,0,0,0,0,0,0,0,0,0
-28,Enkel,0,0,0,0,0,0,0,0,0,0
-29,Siamese,0,0,0,0,0,0,0,0,0,0
-30,atlas,0,0,0,0,0,0,0,0,0,0
-31,Oscar,0,0,0,0,0,0,0,0,0,0
-32,antlr4ide,0,0,0,0,0,0,0,0,0,0
-33,antlr-tutorial,0,0,0,0,0,0,0,0,0,0
-34,SourceFu,0,0,0,0,0,0,0,0,0,0
-35,components,0,0,0,0,0,0,0,0,0,0
-36,CQL,0,0,0,0,0,0,0,0,0,0
-37,ANTLR4-SqlBase,0,0,0,0,0,0,0,0,0,0
-38,jaybird,0,0,0,0,0,0,0,0,0,0
-39,bigbash,0,0,0,0,0,0,0,0,0,0
-40,SNL-Compiler,0,0,0,0,0,0,0,0,0,0
-41,antlr4-sandbox,0,0,0,0,0,0,0,0,0,0
-42,TypeScript,0,0,0,0,0,0,0,0,0,0
-43,EmojIDE,0,0,0,0,0,0,0,0,0,0
-44,antlr4-intellij-adaptor,0,0,0,0,0,0,0,0,0,0
-45,jobson,0,0,0,0,0,0,0,0,0,0
-46,sonar-openedge,0,0,0,0,0,0,0,0,0,0
-47,apex-malhar,0,0,0,0,0,0,0,0,0,0
-48,Objc2Lua,0,0,0,0,0,0,0,0,0,0
-49,COOL-Compiler,0,0,0,0,0,0,0,0,0,0
-50,geotoolkit,0,0,0,0,0,0,0,0,0,0
-51,gemfire-fe,0,0,0,0,0,0,0,0,0,0
-52,Illarion-Java,0,0,0,0,0,0,0,0,0,0
-53,sample.csv,0,0,0,0,0,0,0,0,0,0
-54,Simulizer,0,0,0,0,0,0,0,0,0,0
-55,FastAsyncWorldEdit-1.13,0,0,0,0,0,0,0,0,0,0
-56,oxTrust,0,0,0,0,0,0,0,0,0,0
-57,jetbrains-plugin-st4,0,0,0,0,0,0,0,0,0,0
-58,JuliaDT,0,0,0,0,0,0,0,0,0,0
-59,intellij-plugin-v4,0,0,0,0,0,0,0,0,0,0
-60,jkind,0,0,0,0,0,0,0,0,0,0
-61,JsDroidMobile,0,0,0,0,0,0,0,0,0,0
-62,vulnerability-assessment-tool,0,0,0,0,0,0,0,0,0,0
-63,cst,0,0,0,0,0,0,0,0,0,0
-64,Enkel-JVM-language,0,0,0,0,0,0,0,0,0,0
-65,Hydrograph,0,0,0,0,0,0,0,0,0,0
-66,Pinot,0,0,0,0,0,0,0,0,0,0
-67,graylog-plugin-pipeline-processor,0,0,0,0,0,0,0,0,0,0
-68,disthene-reader,0,0,0,0,0,0,0,0,0,0
-69,APM,0,0,0,0,0,0,0,0,0,0
-70,beam,0,0,0,0,0,0,0,0,0,0
-71,compiler2016,0,0,0,0,0,0,0,0,0,0
-72,antlr-java-parser,0,0,0,0,0,0,0,0,0,0
-73,MPL,0,0,0,0,0,0,0,0,0,0
-74,opendb,0,0,0,0,0,0,0,0,0,0
-75,WorldEdit,0,0,0,0,0,0,0,0,0,0
-76,SKON,0,0,0,0,0,0,0,0,0,0
-77,botsing,0,0,0,0,0,0,0,0,0,0
-78,beast2,0,0,0,0,0,0,0,0,0,0
-79,aliyun-odps-console,0,0,0,0,0,0,0,0,0,0
-80,jabref,0,0,0,0,0,0,0,0,0,0
-81,hive,0,0,0,0,0,0,0,0,0,0
-82,SSM,0,0,0,0,0,0,0,0,0,0
-83,graylog2-server,0,0,0,0,0,0,0,0,0,0
-84,Modulo7,0,0,0,0,0,0,0,0,0,0
-85,directory-scimple,0,0,0,0,0,0,0,0,0,0
-86,rewrite,0,0,0,0,0,0,0,0,0,0
-87,ankor-framework,0,0,0,0,0,0,0,0,0,0
-88,SpinalTap,0,0,0,0,0,0,0,0,0,0
-89,PlayWithCompiler,0,0,0,0,0,0,0,0,0,0
-90,jetbrains-plugin-sample,0,0,0,0,0,0,0,0,0,0
-91,SCIMple-Identity,0,0,0,0,0,0,0,0,0,0
-92,RESOLVE,0,0,0,0,0,0,0,0,0,0
-93,drill,0,0,0,0,0,0,0,0,0,0
-94,zemberek-nlp,0,0,0,0,0,0,0,0,0,0
-95,bvr,0,0,0,0,0,0,0,0,0,0
-96,iBioSim,0,0,0,0,0,0,0,0,0,0
-97,robozonky,0,0,0,0,0,0,0,0,0,0
-98,sqat,0,0,0,0,0,0,0,0,0,0
-99,snowride,0,0,0,0,0,0,0,0,0,0
-100,linden,0,0,0,0,0,0,0,0,0,0
-101,Gaalop,0,0,0,0,0,0,0,0,0,0
-102,Refactoring-Bot,0,0,0,0,0,0,0,0,0,0
-103,DotNetCore-for-NetBeans,0,0,0,0,0,0,0,0,0,0
-104,alchemy,0,0,0,0,0,0,0,0,0,0
-105,Scratch-ApuC,0,0,0,0,0,0,0,0,0,0
-106,blaze-persistence,0,0,0,0,0,0,0,0,0,0
-107,cloudml,0,0,0,0,0,0,0,0,0,0
-108,slang,0,0,0,0,0,0,0,0,0,0
-109,SqlParser,0,0,0,0,0,0,0,0,0,0
-110,Algogo,0,0,0,0,0,0,0,0,0,0
-111,clone_repositories.sh,0,0,0,0,0,0,0,0,0,0
-112,toys,0,0,0,0,0,0,0,0,0,0
-113,antlr4-python,0,0,0,0,0,0,0,0,0,0
-114,cava,0,0,0,0,0,0,0,0,0,0
-115,apt,0,0,0,0,0,0,0,0,0,0
-116,SearchRepair,0,0,0,0,0,0,0,0,0,0
-117,FHIR,0,0,0,0,0,0,0,0,0,0
-118,SourceCounter,0,0,0,0,0,0,0,0,0,0
-119,AntlrListenerVisitorComparison,0,0,0,0,0,0,0,0,0,0
-120,PermissionsEx,0,0,0,0,0,0,0,0,0,0
-121,HUSACCT,0,0,0,0,0,0,0,0,0,0
-122,MSPaintIDE,0,0,0,0,0,0,0,0,0,0
-1,JSONata4Java,657,139,0,0,0,0,0,0,0,0
-2,styx,0,0,0,0,0,0,0,0,0,0
-3,clone_repo_log.log,0,0,0,0,0,0,0,0,0,0
-4,fix-orchestra,0,0,0,0,0,0,0,0,0,0
-5,Alpha,0,0,0,0,0,0,0,0,0,0
-6,parkandrideAPI,0,0,0,0,0,0,0,0,0,0
-7,platform_frameworks_support,0,0,0,0,0,0,0,0,0,0
-8,abstools,0,0,0,0,0,0,0,0,0,0
-9,KROKI-mockup-tool,0,0,0,0,0,0,0,0,0,0
-10,simplehbase,0,0,0,0,0,0,0,0,0,0
-11,rumble,0,0,0,0,0,0,0,0,0,0
-12,Portugol-Studio,0,0,0,0,0,0,0,0,0,0
-13,fuzzyc2cpg,0,0,0,0,0,0,0,0,0,0
-14,eagle,0,0,0,0,0,0,0,0,0,0
-15,groovy,0,0,0,0,0,0,0,0,0,0
-16,theta,0,0,0,0,0,0,0,0,0,0
-17,MaritimeCloud,0,0,0,0,0,0,0,0,0,0
-18,Apktool-android,0,0,0,0,0,0,0,0,0,0
-19,grcuda,0,0,0,0,0,0,0,0,0,0
-20,Lucene-7.5.0,0,0,0,0,0,0,0,0,0,0
-21,chronix.server,0,0,0,0,0,0,0,0,0,0
-22,shadow,0,0,0,0,0,0,0,0,0,0
-23,jmint,0,0,0,0,0,0,0,0,0,0
-24,Arend,0,0,0,0,0,0,0,0,0,0
-25,gaia,0,0,0,0,0,0,0,0,0,0
-26,Alchitry-Labs,0,0,0,0,0,0,0,0,0,0
-27,ANTLR_MPS,0,0,0,0,0,0,0,0,0,0
-28,Enkel,0,0,0,0,0,0,0,0,0,0
-29,Siamese,0,0,0,0,0,0,0,0,0,0
-30,atlas,0,0,0,0,0,0,0,0,0,0
-31,Oscar,0,0,0,0,0,0,0,0,0,0
-32,antlr4ide,0,0,0,0,0,0,0,0,0,0
-33,antlr-tutorial,0,0,0,0,0,0,0,0,0,0
-34,SourceFu,0,0,0,0,0,0,0,0,0,0
-35,components,0,0,0,0,0,0,0,0,0,0
-36,CQL,0,0,0,0,0,0,0,0,0,0
-37,ANTLR4-SqlBase,0,0,0,0,0,0,0,0,0,0
-38,jaybird,0,0,0,0,0,0,0,0,0,0
-39,bigbash,0,0,0,0,0,0,0,0,0,0
-40,SNL-Compiler,0,0,0,0,0,0,0,0,0,0
-41,antlr4-sandbox,0,0,0,0,0,0,0,0,0,0
-42,TypeScript,0,0,0,0,0,0,0,0,0,0
-43,EmojIDE,0,0,0,0,0,0,0,0,0,0
-44,antlr4-intellij-adaptor,0,0,0,0,0,0,0,0,0,0
-45,jobson,0,0,0,0,0,0,0,0,0,0
-46,sonar-openedge,0,0,0,0,0,0,0,0,0,0
-47,apex-malhar,0,0,0,0,0,0,0,0,0,0
-48,Objc2Lua,0,0,0,0,0,0,0,0,0,0
-49,COOL-Compiler,0,0,0,0,0,0,0,0,0,0
-50,geotoolkit,0,0,0,0,0,0,0,0,0,0
-51,gemfire-fe,0,0,0,0,0,0,0,0,0,0
-52,Illarion-Java,0,0,0,0,0,0,0,0,0,0
-53,sample.csv,0,0,0,0,0,0,0,0,0,0
-54,Simulizer,0,0,0,0,0,0,0,0,0,0
-55,FastAsyncWorldEdit-1.13,0,0,0,0,0,0,0,0,0,0
-56,oxTrust,0,0,0,0,0,0,0,0,0,0
-57,jetbrains-plugin-st4,0,0,0,0,0,0,0,0,0,0
-58,JuliaDT,0,0,0,0,0,0,0,0,0,0
-59,intellij-plugin-v4,0,0,0,0,0,0,0,0,0,0
-60,jkind,0,0,0,0,0,0,0,0,0,0
-61,JsDroidMobile,0,0,0,0,0,0,0,0,0,0
-62,vulnerability-assessment-tool,0,0,0,0,0,0,0,0,0,0
-63,cst,0,0,0,0,0,0,0,0,0,0
-64,Enkel-JVM-language,0,0,0,0,0,0,0,0,0,0
-65,Hydrograph,0,0,0,0,0,0,0,0,0,0
-66,Pinot,0,0,0,0,0,0,0,0,0,0
-67,graylog-plugin-pipeline-processor,0,0,0,0,0,0,0,0,0,0
-68,disthene-reader,0,0,0,0,0,0,0,0,0,0
-69,APM,0,0,0,0,0,0,0,0,0,0
-70,beam,0,0,0,0,0,0,0,0,0,0
-71,compiler2016,0,0,0,0,0,0,0,0,0,0
-72,antlr-java-parser,0,0,0,0,0,0,0,0,0,0
-73,MPL,0,0,0,0,0,0,0,0,0,0
-74,opendb,0,0,0,0,0,0,0,0,0,0
-75,WorldEdit,0,0,0,0,0,0,0,0,0,0
-76,SKON,0,0,0,0,0,0,0,0,0,0
-77,botsing,0,0,0,0,0,0,0,0,0,0
-78,beast2,0,0,0,0,0,0,0,0,0,0
-79,aliyun-odps-console,0,0,0,0,0,0,0,0,0,0
-80,jabref,0,0,0,0,0,0,0,0,0,0
-81,hive,0,0,0,0,0,0,0,0,0,0
-82,SSM,0,0,0,0,0,0,0,0,0,0
-83,graylog2-server,0,0,0,0,0,0,0,0,0,0
-84,Modulo7,0,0,0,0,0,0,0,0,0,0
-85,directory-scimple,0,0,0,0,0,0,0,0,0,0
-86,rewrite,0,0,0,0,0,0,0,0,0,0
-87,ankor-framework,0,0,0,0,0,0,0,0,0,0
-88,SpinalTap,0,0,0,0,0,0,0,0,0,0
-89,PlayWithCompiler,0,0,0,0,0,0,0,0,0,0
-90,jetbrains-plugin-sample,0,0,0,0,0,0,0,0,0,0
-91,SCIMple-Identity,0,0,0,0,0,0,0,0,0,0
-92,RESOLVE,0,0,0,0,0,0,0,0,0,0
-93,drill,0,0,0,0,0,0,0,0,0,0
-94,zemberek-nlp,0,0,0,0,0,0,0,0,0,0
-95,bvr,0,0,0,0,0,0,0,0,0,0
-96,iBioSim,0,0,0,0,0,0,0,0,0,0
-97,robozonky,0,0,0,0,0,0,0,0,0,0
-98,sqat,0,0,0,0,0,0,0,0,0,0
-99,snowride,0,0,0,0,0,0,0,0,0,0
-100,linden,0,0,0,0,0,0,0,0,0,0
-101,Gaalop,0,0,0,0,0,0,0,0,0,0
-102,Refactoring-Bot,0,0,0,0,0,0,0,0,0,0
-103,DotNetCore-for-NetBeans,0,0,0,0,0,0,0,0,0,0
-104,alchemy,0,0,0,0,0,0,0,0,0,0
-105,Scratch-ApuC,0,0,0,0,0,0,0,0,0,0
-106,blaze-persistence,0,0,0,0,0,0,0,0,0,0
-107,cloudml,0,0,0,0,0,0,0,0,0,0
-108,slang,0,0,0,0,0,0,0,0,0,0
-109,SqlParser,0,0,0,0,0,0,0,0,0,0
-110,Algogo,0,0,0,0,0,0,0,0,0,0
-111,clone_repositories.sh,0,0,0,0,0,0,0,0,0,0
-112,toys,0,0,0,0,0,0,0,0,0,0
-113,antlr4-python,0,0,0,0,0,0,0,0,0,0
-114,cava,0,0,0,0,0,0,0,0,0,0
-115,apt,0,0,0,0,0,0,0,0,0,0
-116,SearchRepair,0,0,0,0,0,0,0,0,0,0
-117,FHIR,0,0,0,0,0,0,0,0,0,0
-118,SourceCounter,0,0,0,0,0,0,0,0,0,0
-119,AntlrListenerVisitorComparison,0,0,0,0,0,0,0,0,0,0
-120,PermissionsEx,0,0,0,0,0,0,0,0,0,0
-121,HUSACCT,0,0,0,0,0,0,0,0,0,0
-122,MSPaintIDE,0,0,0,0,0,0,0,0,0,0
-1,JSONata4Java,657,139,188,88,94,0,94,0,88,0
-2,styx,0,0,0,0,0,0,0,0,0,0
-3,clone_repo_log.log,0,0,0,0,0,0,0,0,0,0
-4,fix-orchestra,0,0,0,0,0,0,0,0,0,0
-5,Alpha,0,0,0,0,0,0,0,0,0,0
-6,parkandrideAPI,0,0,0,0,0,0,0,0,0,0
-7,platform_frameworks_support,0,0,0,0,0,0,0,0,0,0
-8,abstools,0,0,0,0,0,0,0,0,0,0
-9,KROKI-mockup-tool,0,0,0,0,0,0,0,0,0,0
-10,simplehbase,0,0,0,0,0,0,0,0,0,0
-11,rumble,0,0,0,0,0,0,0,0,0,0
-12,Portugol-Studio,0,0,0,0,0,0,0,0,0,0
-13,fuzzyc2cpg,0,0,0,0,0,0,0,0,0,0
-14,eagle,0,0,0,0,0,0,0,0,0,0
-15,groovy,0,0,0,0,0,0,0,0,0,0
-16,theta,0,0,0,0,0,0,0,0,0,0
-17,MaritimeCloud,0,0,0,0,0,0,0,0,0,0
-18,Apktool-android,0,0,0,0,0,0,0,0,0,0
-19,grcuda,0,0,0,0,0,0,0,0,0,0
-20,Lucene-7.5.0,0,0,0,0,0,0,0,0,0,0
-21,chronix.server,0,0,0,0,0,0,0,0,0,0
-22,shadow,0,0,0,0,0,0,0,0,0,0
-23,jmint,0,0,0,0,0,0,0,0,0,0
-24,Arend,0,0,0,0,0,0,0,0,0,0
-25,gaia,0,0,0,0,0,0,0,0,0,0
-26,Alchitry-Labs,0,0,0,0,0,0,0,0,0,0
-27,ANTLR_MPS,0,0,0,0,0,0,0,0,0,0
-28,Enkel,0,0,0,0,0,0,0,0,0,0
-29,Siamese,0,0,0,0,0,0,0,0,0,0
-30,atlas,0,0,0,0,0,0,0,0,0,0
-31,Oscar,0,0,0,0,0,0,0,0,0,0
-32,antlr4ide,0,0,0,0,0,0,0,0,0,0
-33,antlr-tutorial,0,0,0,0,0,0,0,0,0,0
-34,SourceFu,0,0,0,0,0,0,0,0,0,0
-35,components,0,0,0,0,0,0,0,0,0,0
-36,CQL,0,0,0,0,0,0,0,0,0,0
-37,ANTLR4-SqlBase,0,0,0,0,0,0,0,0,0,0
-38,jaybird,0,0,0,0,0,0,0,0,0,0
-39,bigbash,0,0,0,0,0,0,0,0,0,0
-40,SNL-Compiler,0,0,0,0,0,0,0,0,0,0
-41,antlr4-sandbox,0,0,0,0,0,0,0,0,0,0
-42,TypeScript,0,0,0,0,0,0,0,0,0,0
-43,EmojIDE,0,0,0,0,0,0,0,0,0,0
-44,antlr4-intellij-adaptor,0,0,0,0,0,0,0,0,0,0
-45,jobson,0,0,0,0,0,0,0,0,0,0
-46,sonar-openedge,0,0,0,0,0,0,0,0,0,0
-47,apex-malhar,0,0,0,0,0,0,0,0,0,0
-48,Objc2Lua,0,0,0,0,0,0,0,0,0,0
-49,COOL-Compiler,0,0,0,0,0,0,0,0,0,0
-50,geotoolkit,0,0,0,0,0,0,0,0,0,0
-51,gemfire-fe,0,0,0,0,0,0,0,0,0,0
-52,Illarion-Java,0,0,0,0,0,0,0,0,0,0
-53,sample.csv,0,0,0,0,0,0,0,0,0,0
-54,Simulizer,0,0,0,0,0,0,0,0,0,0
-55,FastAsyncWorldEdit-1.13,0,0,0,0,0,0,0,0,0,0
-56,oxTrust,0,0,0,0,0,0,0,0,0,0
-57,jetbrains-plugin-st4,0,0,0,0,0,0,0,0,0,0
-58,JuliaDT,0,0,0,0,0,0,0,0,0,0
-59,intellij-plugin-v4,0,0,0,0,0,0,0,0,0,0
-60,jkind,0,0,0,0,0,0,0,0,0,0
-61,JsDroidMobile,0,0,0,0,0,0,0,0,0,0
-62,vulnerability-assessment-tool,0,0,0,0,0,0,0,0,0,0
-63,cst,0,0,0,0,0,0,0,0,0,0
-64,Enkel-JVM-language,0,0,0,0,0,0,0,0,0,0
-65,Hydrograph,0,0,0,0,0,0,0,0,0,0
-66,Pinot,0,0,0,0,0,0,0,0,0,0
-67,graylog-plugin-pipeline-processor,0,0,0,0,0,0,0,0,0,0
-68,disthene-reader,0,0,0,0,0,0,0,0,0,0
-69,APM,0,0,0,0,0,0,0,0,0,0
-70,beam,0,0,0,0,0,0,0,0,0,0
-71,compiler2016,0,0,0,0,0,0,0,0,0,0
-72,antlr-java-parser,0,0,0,0,0,0,0,0,0,0
-73,MPL,0,0,0,0,0,0,0,0,0,0
-74,opendb,0,0,0,0,0,0,0,0,0,0
-75,WorldEdit,0,0,0,0,0,0,0,0,0,0
-76,SKON,0,0,0,0,0,0,0,0,0,0
-77,botsing,0,0,0,0,0,0,0,0,0,0
-78,beast2,0,0,0,0,0,0,0,0,0,0
-79,aliyun-odps-console,0,0,0,0,0,0,0,0,0,0
-80,jabref,0,0,0,0,0,0,0,0,0,0
-81,hive,0,0,0,0,0,0,0,0,0,0
-82,SSM,0,0,0,0,0,0,0,0,0,0
-83,graylog2-server,0,0,0,0,0,0,0,0,0,0
-84,Modulo7,0,0,0,0,0,0,0,0,0,0
-85,directory-scimple,0,0,0,0,0,0,0,0,0,0
-86,rewrite,0,0,0,0,0,0,0,0,0,0
-87,ankor-framework,0,0,0,0,0,0,0,0,0,0
-88,SpinalTap,0,0,0,0,0,0,0,0,0,0
-89,PlayWithCompiler,0,0,0,0,0,0,0,0,0,0
-90,jetbrains-plugin-sample,0,0,0,0,0,0,0,0,0,0
-91,SCIMple-Identity,0,0,0,0,0,0,0,0,0,0
-92,RESOLVE,0,0,0,0,0,0,0,0,0,0
-93,drill,0,0,0,0,0,0,0,0,0,0
-94,zemberek-nlp,0,0,0,0,0,0,0,0,0,0
-95,bvr,0,0,0,0,0,0,0,0,0,0
-96,iBioSim,0,0,0,0,0,0,0,0,0,0
-97,robozonky,0,0,0,0,0,0,0,0,0,0
-98,sqat,0,0,0,0,0,0,0,0,0,0
-99,snowride,0,0,0,0,0,0,0,0,0,0
-100,linden,0,0,0,0,0,0,0,0,0,0
-101,Gaalop,0,0,0,0,0,0,0,0,0,0
-102,Refactoring-Bot,0,0,0,0,0,0,0,0,0,0
-103,DotNetCore-for-NetBeans,0,0,0,0,0,0,0,0,0,0
-104,alchemy,0,0,0,0,0,0,0,0,0,0
-105,Scratch-ApuC,0,0,0,0,0,0,0,0,0,0
-106,blaze-persistence,0,0,0,0,0,0,0,0,0,0
-107,cloudml,0,0,0,0,0,0,0,0,0,0
-108,slang,0,0,0,0,0,0,0,0,0,0
-109,SqlParser,0,0,0,0,0,0,0,0,0,0
-110,Algogo,0,0,0,0,0,0,0,0,0,0
-111,clone_repositories.sh,0,0,0,0,0,0,0,0,0,0
-112,toys,0,0,0,0,0,0,0,0,0,0
-113,antlr4-python,0,0,0,0,0,0,0,0,0,0
-114,cava,0,0,0,0,0,0,0,0,0,0
-115,apt,0,0,0,0,0,0,0,0,0,0
-116,SearchRepair,0,0,0,0,0,0,0,0,0,0
-117,FHIR,0,0,0,0,0,0,0,0,0,0
-118,SourceCounter,0,0,0,0,0,0,0,0,0,0
-119,AntlrListenerVisitorComparison,0,0,0,0,0,0,0,0,0,0
-120,PermissionsEx,0,0,0,0,0,0,0,0,0,0
-121,HUSACCT,0,0,0,0,0,0,0,0,0,0
-122,MSPaintIDE,0,0,0,0,0,0,0,0,0,0
-1,JSONata4Java,657,139,188,88,94,0,94,0,88,0
-2,styx,0,0,0,0,0,0,0,0,0,0
-3,clone_repo_log.log,0,0,0,0,0,0,0,0,0,0
-4,fix-orchestra,0,0,0,0,0,0,0,0,0,0
-5,Alpha,0,0,0,0,0,0,0,0,0,0
-6,parkandrideAPI,0,0,0,0,0,0,0,0,0,0
-7,platform_frameworks_support,0,0,0,0,0,0,0,0,0,0
-8,abstools,0,0,0,0,0,0,0,0,0,0
-9,KROKI-mockup-tool,0,0,0,0,0,0,0,0,0,0
-10,simplehbase,0,0,0,0,0,0,0,0,0,0
-11,rumble,0,0,0,0,0,0,0,0,0,0
-12,Portugol-Studio,0,0,0,0,0,0,0,0,0,0
-13,fuzzyc2cpg,0,0,0,0,0,0,0,0,0,0
-14,eagle,0,0,0,0,0,0,0,0,0,0
-15,groovy,0,0,0,0,0,0,0,0,0,0
-16,theta,0,0,0,0,0,0,0,0,0,0
-17,MaritimeCloud,0,0,0,0,0,0,0,0,0,0
-18,Apktool-android,0,0,0,0,0,0,0,0,0,0
-19,grcuda,0,0,0,0,0,0,0,0,0,0
-20,Lucene-7.5.0,0,0,0,0,0,0,0,0,0,0
-21,chronix.server,0,0,0,0,0,0,0,0,0,0
-22,shadow,0,0,0,0,0,0,0,0,0,0
-23,jmint,0,0,0,0,0,0,0,0,0,0
-24,Arend,0,0,0,0,0,0,0,0,0,0
-25,gaia,0,0,0,0,0,0,0,0,0,0
-26,Alchitry-Labs,0,0,0,0,0,0,0,0,0,0
-27,ANTLR_MPS,0,0,0,0,0,0,0,0,0,0
-28,Enkel,0,0,0,0,0,0,0,0,0,0
-29,Siamese,0,0,0,0,0,0,0,0,0,0
-30,atlas,0,0,0,0,0,0,0,0,0,0
-31,Oscar,0,0,0,0,0,0,0,0,0,0
-32,antlr4ide,0,0,0,0,0,0,0,0,0,0
-33,antlr-tutorial,0,0,0,0,0,0,0,0,0,0
-34,SourceFu,0,0,0,0,0,0,0,0,0,0
-35,components,0,0,0,0,0,0,0,0,0,0
-36,CQL,0,0,0,0,0,0,0,0,0,0
-37,ANTLR4-SqlBase,0,0,0,0,0,0,0,0,0,0
-38,jaybird,0,0,0,0,0,0,0,0,0,0
-39,bigbash,0,0,0,0,0,0,0,0,0,0
-40,SNL-Compiler,0,0,0,0,0,0,0,0,0,0
-41,antlr4-sandbox,0,0,0,0,0,0,0,0,0,0
-42,TypeScript,0,0,0,0,0,0,0,0,0,0
-43,EmojIDE,0,0,0,0,0,0,0,0,0,0
-44,antlr4-intellij-adaptor,0,0,0,0,0,0,0,0,0,0
-45,jobson,0,0,0,0,0,0,0,0,0,0
-46,sonar-openedge,0,0,0,0,0,0,0,0,0,0
-47,apex-malhar,0,0,0,0,0,0,0,0,0,0
-48,Objc2Lua,0,0,0,0,0,0,0,0,0,0
-49,COOL-Compiler,0,0,0,0,0,0,0,0,0,0
-50,geotoolkit,0,0,0,0,0,0,0,0,0,0
-51,gemfire-fe,0,0,0,0,0,0,0,0,0,0
-52,Illarion-Java,0,0,0,0,0,0,0,0,0,0
-53,sample.csv,0,0,0,0,0,0,0,0,0,0
-54,Simulizer,0,0,0,0,0,0,0,0,0,0
-55,FastAsyncWorldEdit-1.13,0,0,0,0,0,0,0,0,0,0
-56,oxTrust,0,0,0,0,0,0,0,0,0,0
-57,jetbrains-plugin-st4,0,0,0,0,0,0,0,0,0,0
-58,JuliaDT,0,0,0,0,0,0,0,0,0,0
-59,intellij-plugin-v4,0,0,0,0,0,0,0,0,0,0
-60,jkind,0,0,0,0,0,0,0,0,0,0
-61,JsDroidMobile,0,0,0,0,0,0,0,0,0,0
-62,vulnerability-assessment-tool,0,0,0,0,0,0,0,0,0,0
-63,cst,0,0,0,0,0,0,0,0,0,0
-64,Enkel-JVM-language,0,0,0,0,0,0,0,0,0,0
-65,Hydrograph,0,0,0,0,0,0,0,0,0,0
-66,Pinot,0,0,0,0,0,0,0,0,0,0
-67,graylog-plugin-pipeline-processor,0,0,0,0,0,0,0,0,0,0
-68,disthene-reader,0,0,0,0,0,0,0,0,0,0
-69,APM,0,0,0,0,0,0,0,0,0,0
-70,beam,0,0,0,0,0,0,0,0,0,0
-71,compiler2016,0,0,0,0,0,0,0,0,0,0
-72,antlr-java-parser,0,0,0,0,0,0,0,0,0,0
-73,MPL,0,0,0,0,0,0,0,0,0,0
-74,opendb,0,0,0,0,0,0,0,0,0,0
-75,WorldEdit,0,0,0,0,0,0,0,0,0,0
-76,SKON,0,0,0,0,0,0,0,0,0,0
-77,botsing,0,0,0,0,0,0,0,0,0,0
-78,beast2,0,0,0,0,0,0,0,0,0,0
-79,aliyun-odps-console,0,0,0,0,0,0,0,0,0,0
-80,jabref,0,0,0,0,0,0,0,0,0,0
-81,hive,0,0,0,0,0,0,0,0,0,0
-82,SSM,0,0,0,0,0,0,0,0,0,0
-83,graylog2-server,0,0,0,0,0,0,0,0,0,0
-84,Modulo7,0,0,0,0,0,0,0,0,0,0
-85,directory-scimple,0,0,0,0,0,0,0,0,0,0
-86,rewrite,0,0,0,0,0,0,0,0,0,0
-87,ankor-framework,0,0,0,0,0,0,0,0,0,0
-88,SpinalTap,0,0,0,0,0,0,0,0,0,0
-89,PlayWithCompiler,0,0,0,0,0,0,0,0,0,0
-90,jetbrains-plugin-sample,0,0,0,0,0,0,0,0,0,0
-91,SCIMple-Identity,0,0,0,0,0,0,0,0,0,0
-92,RESOLVE,0,0,0,0,0,0,0,0,0,0
-93,drill,0,0,0,0,0,0,0,0,0,0
-94,zemberek-nlp,0,0,0,0,0,0,0,0,0,0
-95,bvr,0,0,0,0,0,0,0,0,0,0
-96,iBioSim,0,0,0,0,0,0,0,0,0,0
-97,robozonky,0,0,0,0,0,0,0,0,0,0
-98,sqat,0,0,0,0,0,0,0,0,0,0
-99,snowride,0,0,0,0,0,0,0,0,0,0
-100,linden,0,0,0,0,0,0,0,0,0,0
-101,Gaalop,0,0,0,0,0,0,0,0,0,0
-102,Refactoring-Bot,0,0,0,0,0,0,0,0,0,0
-103,DotNetCore-for-NetBeans,0,0,0,0,0,0,0,0,0,0
-104,alchemy,0,0,0,0,0,0,0,0,0,0
-105,Scratch-ApuC,0,0,0,0,0,0,0,0,0,0
-106,blaze-persistence,0,0,0,0,0,0,0,0,0,0
-107,cloudml,0,0,0,0,0,0,0,0,0,0
-108,slang,0,0,0,0,0,0,0,0,0,0
-109,SqlParser,0,0,0,0,0,0,0,0,0,0
-110,Algogo,0,0,0,0,0,0,0,0,0,0
-111,clone_repositories.sh,0,0,0,0,0,0,0,0,0,0
-112,toys,0,0,0,0,0,0,0,0,0,0
-113,antlr4-python,0,0,0,0,0,0,0,0,0,0
-114,cava,0,0,0,0,0,0,0,0,0,0
-115,apt,0,0,0,0,0,0,0,0,0,0
-116,SearchRepair,0,0,0,0,0,0,0,0,0,0
-117,FHIR,0,0,0,0,0,0,0,0,0,0
-118,SourceCounter,0,0,0,0,0,0,0,0,0,0
-119,AntlrListenerVisitorComparison,0,0,0,0,0,0,0,0,0,0
-120,PermissionsEx,0,0,0,0,0,0,0,0,0,0
-121,HUSACCT,0,0,0,0,0,0,0,0,0,0
-122,MSPaintIDE,0,0,0,0,0,0,0,0,0,0
+repository,description,fork,created_at,updated_at,pushed_at,size,stargazers_count,watchers_count,language,has_issues,has_projects,has_downloads,has_wiki,has_pages,forks_count,open_issues_count,license,forks,open_issues,watchers,default_branch,subscribers_count,g4,rt
+4455jkjh/Apktool-android,Apltool on Android,False,2019-02-23T17:00:53Z,2019-12-12T00:13:21Z,2019-05-16T13:52:02Z,13202,38,38,Java,True,True,True,True,False,15,3,GNU General Public License v2.0,15,3,38,master,6,13,17.0
+52Jolynn/SqlParser,"SQL-92 parser, use antlr 4",False,2014-05-06T05:20:35Z,2019-03-06T15:35:10Z,2015-08-31T01:13:27Z,1606,14,14,Java,True,True,True,True,False,3,0,GNU General Public License v3.0,3,0,14,master,3,5,6.0
+Adrodoc/MPL,A language to generate command blocks for Minecraft 1.9 and higher,False,2015-11-13T12:53:45Z,2019-02-04T02:33:25Z,2018-06-01T19:37:17Z,2807,12,12,Java,True,True,True,True,False,3,23,GNU General Public License v3.0,3,23,12,master,2,3,21.0
+AlanHohn/antlr4-python,ANTLR 4 examples in Python,False,2016-03-16T01:49:23Z,2019-07-22T04:58:30Z,2016-03-30T02:50:50Z,10,23,23,ANTLR,True,True,True,True,False,2,0,Apache License 2.0,2,0,23,master,1,3,0.0
+Andyccs/sqat,Check and analyse your Java code,False,2015-09-06T03:45:34Z,2017-04-18T08:53:02Z,2018-01-12T03:50:35Z,288,14,14,Java,True,True,True,False,False,1,3,MIT License,1,3,14,develop,3,1,6.0
+Big5-sec/SourceFu,"hopefully a source-to-source deobfuscator, aiming at deobfuscating common scripts languages such as Powershell, VBA and Javascript. Current status: birth. Based on ANTLR",False,2019-01-02T15:47:21Z,2019-12-03T15:10:20Z,2019-08-17T22:09:10Z,33864,30,30,Java,True,True,True,True,True,2,0,Mozilla Public License 2.0,2,0,30,master,4,7,54.0
+BitwiseInc/Hydrograph,A visual ETL development and debugging tool for big data,False,2017-03-09T20:49:55Z,2019-09-20T13:49:58Z,2019-11-13T04:31:28Z,35083,133,133,Java,True,True,True,True,True,96,27,Apache License 2.0,96,27,133,master,43,2,17.0
+Blazebit/blaze-persistence,Rich Criteria API for JPA providers,False,2014-07-12T11:08:47Z,2019-12-09T22:16:43Z,2019-12-10T18:36:51Z,21023,146,146,Java,True,True,True,True,False,16,187,Other,16,187,146,master,13,2,7.0
+Borisvl/bigbash,A converter that generates a bash one-liner from an SQL Select query (no DB necessary),False,2016-02-05T14:08:23Z,2019-12-08T15:51:47Z,2016-07-16T13:35:20Z,984,217,217,Java,True,False,True,False,False,5,3,Other,5,3,217,master,13,1,18.0
+CST-Group/cst,"CST is the Cognitive Systems Toolkit, a toolkit for the construction of Cognitive Systems and Cognitive Architectures",False,2015-08-14T17:56:39Z,2019-11-17T02:33:55Z,2019-08-29T22:08:14Z,12230,17,17,Java,True,True,True,True,True,10,0,GNU Lesser General Public License v3.0,10,0,17,master,12,1,5.0
+CallForSanity/Gaalop,"Gaalop (Geometic Algebra Algorithms Optimizer) is a software to compile and optimize geometric algebra (GA) expressions into high-level programming language code. Geometric algebra expressions can be developed using the freely available CLUCalc software by Christian Perwass. Gaalop optimizes CLUCalc expressions and produces C++ (AMP), OpenCL, CUDA, CLUCalc or LaTeX output. The optimized code is free of geometric algebra operations and runs very efficiently on various platforms.",False,2015-02-11T10:07:28Z,2019-12-04T07:15:45Z,2019-12-04T07:15:43Z,19346,34,34,Java,True,True,True,True,False,14,0,GNU Lesser General Public License v3.0,14,0,34,master,10,2,3.0
+CampagneLaboratory/ANTLR_MPS,"An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar. ",False,2015-06-10T22:45:47Z,2019-07-16T18:34:45Z,2017-09-06T19:06:22Z,8296,18,18,Java,True,True,True,True,False,5,3,Other,5,3,18,master,2,2,2.0
+CategoricalData/CQL,Categorical Query Language IDE,False,2019-03-13T04:31:46Z,2019-12-12T17:14:17Z,2019-11-18T05:06:36Z,16189,122,122,Java,True,False,True,True,True,6,30,GNU Affero General Public License v3.0,6,30,122,master,21,14,1.0
+Chris2011/DotNetCore-for-NetBeans,"Brings .NET Core with C# support to netbeans (Create projects, open Projects, etc.)",False,2015-07-14T08:04:57Z,2019-11-26T14:56:14Z,2019-05-12T21:14:54Z,7794,14,14,Java,True,True,True,True,False,5,9,MIT License,5,9,14,develop,4,3,5.0
+ChronixDB/chronix.server,The Chronix Server implementation that is based on Apache Solr.,False,2015-10-02T11:04:02Z,2019-11-21T15:16:00Z,2019-11-18T13:02:58Z,2339,252,252,Java,True,False,True,False,False,25,7,Apache License 2.0,25,7,252,master,18,1,5.0
+ClemsonRSRG/RESOLVE,RESOLVE (REusable SOftware Language with VErification) is a specification and programming language designed for verifying correctness of object oriented programs.,False,2012-08-23T19:19:54Z,2019-10-24T19:08:45Z,2019-07-26T12:29:50Z,11897,17,17,Java,True,False,True,True,False,12,4,"BSD 3-Clause ""New"" or ""Revised"" License",12,4,17,master,6,2,14.0
+CodeKaio/gaia,"Gaia is a Terraform :earth_africa: UI for your terraform modules, and self-service infrastructure.",False,2019-04-26T14:22:42Z,2019-12-12T13:20:41Z,2019-12-12T17:19:59Z,1084,11,11,Java,True,True,True,False,False,1,29,Mozilla Public License 2.0,1,29,11,master,3,1,0.0
+CodeNeedWho/JsDroidMobile,JsDroid客户端App，网址：http://www.jsdroid.com,False,2019-10-30T03:08:40Z,2019-12-11T09:14:16Z,2019-11-22T03:36:53Z,52862,23,23,Java,True,True,True,True,False,15,1,,15,1,23,master,2,4,101.0
+Cognifide/APM,AEM Permission Management,False,2016-09-25T14:12:21Z,2019-12-12T13:53:55Z,2019-12-12T13:53:52Z,2290,41,41,Java,True,True,True,True,False,13,44,Apache License 2.0,13,44,41,master,51,1,0.0
+Comcast/Oscar,"OSCAR - OpenSource Cablemodem file AssembleR - DOCSIS, PacketCable, DPoE Configuration Editor and API Framework",False,2015-04-10T18:18:15Z,2019-12-13T21:20:32Z,2019-03-26T20:49:29Z,27596,17,17,Java,True,True,True,True,True,7,5,Apache License 2.0,7,5,17,master,7,1,11.0
+CompEvol/beast2,Bayesian Evolutionary Analysis by Sampling Trees,False,2014-01-15T21:56:41Z,2019-12-11T18:31:03Z,2019-12-11T18:31:01Z,88885,126,126,Java,True,False,True,False,False,55,97,GNU Lesser General Public License v2.1,55,97,126,master,33,2,6.0
+ConsenSys/cava, ConsenSys core libraries for Java & Kotlin,False,2018-06-15T20:20:28Z,2019-10-04T00:34:55Z,2019-04-22T21:13:17Z,4613,71,71,Java,True,True,True,True,True,25,5,Apache License 2.0,25,5,71,master,22,2,8.0
+Consoar/Objc2Lua,,False,2016-03-05T07:18:53Z,2018-01-08T15:10:46Z,2016-03-05T08:16:15Z,1729,17,17,Java,True,True,True,True,False,5,0,Apache License 2.0,5,0,17,master,0,1,6.0
+CvO-Theory/apt,APT – Analysis of Petri nets and labelled transition systems,False,2013-03-26T12:36:37Z,2019-11-22T18:03:15Z,2019-11-22T18:03:10Z,38815,14,14,Java,True,True,True,True,False,8,1,GNU General Public License v2.0,8,1,14,master,9,10,9.0
+DJCordhose/antlr4-sandbox,Sample code for ANTLR4,False,2013-02-22T19:37:09Z,2019-04-27T19:44:19Z,2013-02-22T19:52:45Z,172,11,11,Java,True,True,True,True,False,4,0,,4,0,11,master,2,2,13.0
+DonnyZone/ANTLR4-SqlBase,剥离的模块，用于查看Spark SQL生成的语法树,False,2018-02-28T09:25:26Z,2019-11-27T08:34:24Z,2019-05-26T12:39:28Z,1435,35,35,Java,True,True,True,True,False,28,0,,28,0,35,master,0,1,6.0
+EinsamHauer/disthene-reader,,False,2014-11-26T21:04:51Z,2019-09-18T08:03:23Z,2019-11-02T20:48:15Z,1346,16,16,Java,True,True,True,True,False,11,3,MIT License,11,3,16,master,5,1,2.0
+EngineHub/WorldEdit,An in-game voxel map editor for Minecraft,False,2010-09-28T08:11:57Z,2019-12-14T13:43:44Z,2019-12-11T17:44:13Z,15287,1372,1372,Java,False,True,True,False,False,621,12,Other,621,12,1372,master,119,1,5.0
+FIXTradingCommunity/fix-orchestra,Machine readable rules of engagement,False,2016-02-15T12:35:21Z,2019-12-09T20:04:58Z,2019-12-09T20:04:55Z,13786,30,30,Java,True,True,True,True,False,14,13,Apache License 2.0,14,13,30,master,26,1,6.0
+FTSRG/theta,"Generic, modular and configurable model checking framework",False,2015-07-20T15:34:13Z,2019-12-01T13:34:28Z,2019-12-08T12:53:13Z,50285,12,12,Java,True,False,True,False,True,15,13,Apache License 2.0,15,13,12,master,15,4,8.0
+FirebirdSQL/jaybird,JCA/JDBC driver for Firebird,False,2015-04-25T09:06:11Z,2019-12-14T13:16:21Z,2019-12-14T13:16:18Z,80238,60,60,Java,True,False,True,True,False,20,1,GNU Lesser General Public License v2.1,20,1,60,master,17,1,7.0
+GeertjanWielenga/TypeScript,,False,2015-09-26T09:44:51Z,2019-01-08T11:32:24Z,2015-10-01T10:59:32Z,625,25,25,Java,True,True,True,True,False,6,4,,6,4,25,master,8,1,3.0
+Geomatys/geotoolkit,"Geotoolkit.org (abridged Geotk) is a free software, Java language library for developing geospatial applications. The library can be used for desktop or server applications.  Geotk is built on top of Apache SIS and is used as a laboratory for the later. ",False,2014-07-15T12:37:35Z,2019-11-05T08:27:10Z,2019-11-05T08:27:07Z,78497,34,34,Java,True,False,True,False,True,24,3,,24,3,34,master,21,1,3.0
+GluuFederation/oxTrust,"Gluu Server UI for managing authentication, authorization and users.",False,2014-03-28T18:53:26Z,2019-12-13T16:15:49Z,2019-12-13T20:08:03Z,42029,70,70,Java,True,True,True,True,False,38,79,MIT License,38,79,70,master,23,1,9.0
+Graylog2/graylog-plugin-pipeline-processor,[DEPRECATED] Graylog Pipeline Message Processor Plugins,False,2016-01-21T15:59:14Z,2019-04-15T09:54:25Z,2019-03-15T12:06:40Z,1896,17,17,Java,True,True,True,False,False,15,33,GNU General Public License v3.0,15,33,17,master,19,1,32.0
+Graylog2/graylog2-server,Free and open source log management,False,2010-05-17T21:27:02Z,2019-12-13T15:33:38Z,2019-12-14T03:15:16Z,95737,5114,5114,Java,True,True,True,False,False,781,1050,GNU General Public License v3.0,781,1050,5114,master,266,1,34.0
+HSLdevcom/parkandrideAPI,HSL project to collect and share parking capacity information ,False,2014-06-27T11:39:23Z,2019-04-14T13:27:34Z,2018-09-06T11:13:56Z,6596,16,16,Java,True,True,True,True,False,10,0,Other,10,0,16,master,15,1,7.0
+HUSACCT/HUSACCT,A Software Architecture Comformance Checking Tool for Java and C#,False,2012-03-21T20:53:51Z,2019-05-13T14:43:09Z,2018-12-16T14:02:03Z,234967,22,22,Java,True,True,True,False,True,38,1,Other,38,1,22,master,10,1,13.0
+Hanmourang/Pinot,Pinot 是一个实时分布式的 OLAP 数据存储和分析系统。LinkedIn 使用它实现低延迟可伸缩的实时分析。Pinot 从离线数据源（包括 Hadoop 和各类文件）和在线数据源（如 Kafka）中攫取数据进行分析。Pinot 被设计是可以进行水平扩展的,False,2015-11-08T12:51:58Z,2019-04-04T14:28:45Z,2015-11-08T12:53:26Z,0,11,11,Java,True,True,True,True,False,8,0,Apache License 2.0,8,0,11,master,3,1,2.0
+HotelsDotCom/styx,"Programmable, asynchronous, event-based reverse proxy for JVM.",False,2017-10-13T15:27:53Z,2019-12-13T09:05:38Z,2019-12-13T09:05:36Z,4947,195,195,Java,True,True,True,True,False,57,35,Apache License 2.0,57,35,195,master,24,1,3.0
+IBM/FHIR,The IBM FHIR® Server and related projects,False,2019-08-14T13:56:12Z,2019-12-13T17:23:34Z,2019-12-13T23:35:27Z,142569,28,28,Java,True,True,True,True,True,14,54,Apache License 2.0,14,54,28,master,9,1,7.0
+IBM/JSONata4Java,Open Source Java version of JSONata,False,2019-02-09T19:28:48Z,2019-11-14T22:53:24Z,2019-11-06T17:32:41Z,3920,11,11,Java,True,True,True,True,False,3,3,Apache License 2.0,3,3,11,master,10,3,19.0
+Illarion-eV/Illarion-Java,"Java Applications of Illarion (Client, Mapeditor, easyNPC Editor, Downloader)",False,2011-06-13T16:22:38Z,2019-08-10T12:17:11Z,2019-08-07T19:29:54Z,21349,38,38,Java,False,True,True,False,False,25,6,,25,6,38,master,14,1,4.0
+Intel-bigdata/SSM,"Smart Storage Management for Big Data, a comprehensive hot/cold data optimized solution",False,2017-01-05T07:13:54Z,2019-12-12T02:26:44Z,2019-12-05T07:42:28Z,10083,44,44,Java,True,True,True,True,False,23,37,Apache License 2.0,23,37,44,trunk,13,1,3.0
+IntellectualSites/FastAsyncWorldEdit-1.13,"Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/",False,2018-12-20T17:22:31Z,2019-12-11T22:39:50Z,2019-12-13T00:00:34Z,20406,45,45,Java,True,True,True,True,False,25,47,Other,25,47,45,merge,11,1,5.0
+JabRef/jabref,Graphical Java application for managing BibTeX and biblatex (.bib) databases,False,2014-03-11T14:48:42Z,2019-12-13T23:48:58Z,2019-12-13T23:36:45Z,119970,1498,1498,Java,True,True,True,True,False,1048,218,MIT License,1048,218,1498,master,100,1,2.0
+JakubDziworski/AntlrListenerVisitorComparison,comparison of listener oriented and visitor oriented parser implementations using antlr4,False,2016-03-30T10:42:57Z,2019-09-14T00:09:54Z,2016-05-14T04:50:44Z,7,27,27,Java,True,True,True,True,False,5,0,,5,0,27,master,1,2,2.0
+JakubDziworski/Enkel-JVM-language,Enkel is a simple programming language running on the jvm,False,2016-03-09T22:24:26Z,2019-11-25T22:07:41Z,2017-05-09T14:19:29Z,175,198,198,Java,True,True,True,True,False,21,3,,21,3,198,master,12,1,24.0
+JetBrains/Arend,,False,2015-02-16T12:07:33Z,2019-12-14T07:26:16Z,2019-12-14T07:26:24Z,12327,328,328,Java,True,True,True,True,False,19,4,Apache License 2.0,19,4,328,master,18,1,3.0
+JuliaComputing/JuliaDT,Julia Development Toolkit for Eclipse,False,2015-12-04T09:14:44Z,2019-12-06T06:28:13Z,2016-11-04T09:11:10Z,991,28,28,Java,True,False,True,True,False,5,6,Other,5,6,28,master,25,1,10.0
+KROKIteam/KROKI-mockup-tool,KROKI is an open-source mockup driven development environment for rapid prototyping and development of business Java applications.,False,2012-10-19T12:07:42Z,2019-12-04T19:16:55Z,2019-10-06T15:36:00Z,210048,11,11,Java,True,True,True,True,False,12,6,,12,6,11,master,5,1,5.0
+KevinOfNeu/Enkel,Practice of github.com/JakubDziworski/Enkel-JVM-language,False,2018-07-18T08:16:22Z,2019-11-09T18:57:19Z,2018-09-05T10:36:26Z,360,22,22,Java,True,True,True,True,False,1,0,,1,0,22,master,3,1,28.0
+Khalian/Modulo7,A semantic and technical analysis of musical scores based on Information Retrieval Principles,False,2015-05-12T20:01:30Z,2019-03-14T17:14:44Z,2016-03-11T18:14:15Z,19654,15,15,Java,True,True,True,True,False,3,4,Apache License 2.0,3,4,15,development,3,2,8.0
+LiYing2010/SourceCounter,Source Step Counter for Kotlin and Java,False,2016-04-26T12:41:43Z,2019-07-10T02:02:49Z,2016-11-25T07:08:37Z,15311,13,13,Java,True,True,True,True,False,3,0,,3,0,13,master,3,19,19.0
+LuXugang/Lucene-7.5.0,,False,2018-11-29T02:28:20Z,2019-12-13T14:40:09Z,2019-12-12T07:31:58Z,883427,21,21,Java,True,True,True,True,False,10,3,,10,3,21,master,4,2,6.0
+MSPaintIDE/MSPaintIDE,Programming in MS Paint,False,2017-12-09T17:48:27Z,2019-12-13T20:45:58Z,2019-10-29T00:54:08Z,2607,754,754,Java,True,True,True,True,False,21,2,MIT License,21,2,754,master,23,6,8.0
+MaritimeConnectivityPlatform/MaritimeCloud,"INACTIVE: A communication framework enabling efficient, secure, reliable and seamless electronic information exchange between maritime stakeholders across available communication systems.",False,2013-12-12T10:14:35Z,2019-11-20T18:05:55Z,2019-10-13T13:14:59Z,2268,12,12,Java,True,True,True,True,False,9,26,Other,9,26,12,master,5,1,11.0
+MegaApuTurkUltra/Scratch-ApuC,"A text-based C-like language for Scratch. Pronounced ""Apu C""",False,2014-08-25T17:20:06Z,2019-02-23T06:35:27Z,2018-11-21T00:56:16Z,30928,11,11,Java,True,True,True,False,False,0,1,Apache License 2.0,0,1,11,master,4,3,176.0
+MyersResearchGroup/iBioSim,"iBioSim is a computer-aided design (CAD) tool aimed for the modeling, analysis, and design of genetic circuits. It is capable of importing and exporting models specified using the Systems Biology Markup Language (SBML).  iBioSim also supports the Synthetic Biology Open Language (SBOL), an emerging standard for information exchange in synthetic biology.",False,2016-11-07T17:24:51Z,2019-12-12T17:06:06Z,2019-12-12T19:48:28Z,825050,24,24,Java,True,True,True,True,False,7,276,Apache License 2.0,7,276,24,master,5,1,1.0
+NVIDIA/grcuda,Polyglot CUDA integration for the GraalVM,False,2019-08-21T15:39:27Z,2019-12-10T06:18:58Z,2019-10-31T16:38:38Z,180,107,107,Java,True,False,True,False,False,9,4,"BSD 3-Clause ""New"" or ""Revised"" License",9,4,107,master,6,1,1.0
+Netflix-Skunkworks/rewrite,Distributed code search and refactoring for Java,False,2016-07-08T06:09:31Z,2019-12-11T09:53:58Z,2019-08-03T22:27:23Z,1638,237,237,Java,True,True,True,True,False,31,14,Apache License 2.0,31,14,237,master,202,5,17.0
+OpenPlaceReviews/opendb,This is a service that provides database communication,False,2019-01-22T14:08:48Z,2019-11-20T20:20:21Z,2019-11-20T20:20:19Z,1922,13,13,Java,True,True,True,True,False,4,3,Apache License 2.0,4,3,13,master,7,1,1.0
+PEXPlugins/PermissionsEx,PermissionsEx Plugin for bukkit,False,2011-04-17T16:04:00Z,2019-10-23T04:04:38Z,2019-11-25T08:19:03Z,5466,406,406,Java,True,True,True,True,True,304,25,Other,304,25,406,master,66,2,1.0
+PennState/SCIMple-Identity,"Penn State's Open Source JavaEE implmentation of the SCIM version 2.0 specification (RFC7642, RFC7643 and RFC7644)",False,2016-03-23T18:47:14Z,2019-09-19T10:55:49Z,2018-10-12T13:28:38Z,1460,26,26,Java,True,False,True,False,False,10,34,Apache License 2.0,10,34,26,develop,14,4,6.0
+Pivotal-Field-Engineering/gemfire-fe,,False,2015-10-17T15:16:34Z,2019-08-01T22:14:21Z,2019-11-13T04:59:52Z,75518,19,19,Java,True,True,True,True,False,12,1,,12,1,19,master,292,1,7.0
+ProgramRepair/SearchRepair,The SearchRepair automated C program repair tool (see http://people.cs.umass.edu/~brun/pubs/pubs/Ke15ase.pdf),False,2015-07-25T18:48:20Z,2019-06-05T06:43:41Z,2019-03-13T15:54:59Z,81674,12,12,Java,True,True,True,True,False,6,0,Other,6,0,12,master,3,4,20.0
+Refactoring-Bot/Refactoring-Bot,Implementing the vision of an autonomous bot to eliminate code smells through automatic refactoring.,False,2018-06-09T16:01:49Z,2019-11-25T11:37:48Z,2019-12-02T07:45:54Z,1309,43,43,Java,True,True,True,True,False,8,7,MIT License,8,7,43,master,7,1,5.0
+RentTheRunway/alchemy,A/B experiments service,False,2014-03-26T17:02:29Z,2019-08-13T15:38:30Z,2019-05-21T13:39:45Z,862,30,30,Java,True,True,True,True,False,6,0,MIT License,6,0,30,master,127,1,6.0
+RichardGong/PlayWithCompiler,A GeekTime course about constructing a compiler.,False,2019-06-06T00:31:34Z,2019-12-13T13:19:12Z,2019-11-09T06:56:46Z,17911,242,242,Java,True,True,True,True,True,88,9,,88,9,242,master,21,20,41.0
+Riverside-Software/sonar-openedge,CABL (Code Analyzer for ABL in SonarQube),False,2016-01-19T12:20:40Z,2019-12-05T20:36:00Z,2019-12-06T10:40:35Z,3243,43,43,Java,True,True,True,True,False,18,80,GNU Lesser General Public License v3.0,18,80,43,develop,20,4,31.0
+RoboZonky/robozonky,Automatické investování na zonky.cz,False,2016-05-05T05:56:51Z,2019-12-09T18:58:06Z,2019-12-09T18:58:03Z,14126,61,61,Java,True,True,True,True,True,18,22,Apache License 2.0,18,22,61,master,17,7,2.0
+RubbaBoy/EmojIDE,Programming in Discord emojis. Second place for the ProgrammerHumor Hackathon,False,2019-08-02T20:00:26Z,2019-12-10T00:15:06Z,2019-08-28T02:46:06Z,2291,12,12,Java,True,True,True,True,False,0,0,MIT License,0,0,12,master,1,2,3.0
+RumbleDB/rumble,"⛈️ Rumble 1.4.1 ""Willow Oak""🌳 for Apache Spark | Run queries on your heterogeneous JSON data (🆕 or text, or Parquet)",False,2017-09-04T10:58:48Z,2019-12-12T16:17:26Z,2019-12-13T16:51:27Z,91173,31,31,Java,True,True,True,True,False,5,43,Other,5,43,31,master,8,1,9.0
+SAP/vulnerability-assessment-tool,"Analyses your Java and Python applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://sap.github.io/vulnerability-assessment-tool/",False,2018-08-20T13:54:15Z,2019-12-13T22:12:27Z,2019-12-11T09:51:24Z,61234,339,339,Java,True,False,True,False,True,80,14,Apache License 2.0,80,14,339,master,29,4,3.0
+SINTEF-9012/bvr,"Base Variability Resolution (BVR) metamodel, engine and editors",False,2012-09-26T09:05:40Z,2019-08-13T14:39:45Z,2018-09-04T10:56:54Z,1791529,11,11,Java,True,True,True,True,False,4,20,,4,20,11,master,9,1,14.0
+SINTEF-9012/cloudml,CloudML: Transparent deployment of cloud applications,False,2013-05-15T13:47:38Z,2019-04-03T10:44:06Z,2018-03-10T08:53:35Z,4351,28,28,Java,True,True,True,True,True,8,12,GNU Lesser General Public License v3.0,8,12,28,master,19,1,2.0
+STAMP-project/botsing,Botsing is a Java framework for crash reproduction. It depends on EvoSuite (http://www.evosuite.org) for code instrumentation.,False,2018-09-06T07:53:29Z,2019-12-13T10:34:46Z,2019-12-13T10:56:25Z,85134,13,13,Java,True,True,True,False,True,9,21,Apache License 2.0,9,21,13,master,10,2,3.0
+ShiftLeftSecurity/fuzzyc2cpg,A fuzzy parser for C/C++ that creates semantic code property graphs,False,2018-07-03T15:52:04Z,2019-12-11T20:08:32Z,2019-12-11T20:13:38Z,770,22,22,Java,True,True,True,True,False,7,8,GNU Lesser General Public License v3.0,7,8,22,master,8,4,34.0
+Simulizer/Simulizer,A MIPS (R3000) Processor Emulator and Visualisation tool,False,2016-09-07T21:42:58Z,2019-08-12T13:45:01Z,2018-11-18T21:13:34Z,12669,20,20,Java,True,True,True,True,False,5,21,GNU General Public License v3.0,5,21,20,master,5,1,9.0
+Skyost/Algogo,"Algogo is an algorithm editor and interpreter. Lightweight and easy to use, it is free and open-source.",False,2015-05-16T15:18:39Z,2019-11-23T01:03:35Z,2019-11-23T01:03:33Z,2441,12,12,Java,True,False,True,True,True,2,2,GNU General Public License v3.0,2,2,12,master,2,2,6.0
+SonarSource/slang,,False,2018-05-28T14:52:00Z,2019-12-14T00:06:26Z,2019-12-14T00:06:21Z,3379,37,37,Java,False,True,True,False,False,5,1,Other,5,1,37,master,14,1,4.0
+Soothsilver/snowride,A faster Robot Framework IDE,False,2019-03-17T07:55:30Z,2019-12-10T01:16:48Z,2019-11-30T10:54:48Z,3486,11,11,Java,True,True,True,True,False,2,14,GNU General Public License v3.0,2,14,11,master,2,1,2.0
+SpaceKrakens/SKON,Space Kraken Object Notation - An alternative serialization language,False,2016-09-04T15:43:12Z,2018-09-01T23:39:53Z,2017-02-14T19:04:32Z,85,25,25,ANTLR,True,True,True,True,False,7,1,MIT License,7,1,25,master,7,2,0.0
+Talend/components,Talend component infrastructure and public components,False,2015-07-28T20:02:50Z,2019-12-13T09:40:50Z,2019-12-13T09:48:17Z,19591,43,43,Java,True,False,True,True,False,48,20,Apache License 2.0,48,20,43,master,101,1,6.0
+TeamShadow/shadow,Reference compiler for the Shadow programming language.,False,2014-07-22T18:58:51Z,2019-10-10T21:17:56Z,2019-10-10T21:17:51Z,10748,11,11,Java,True,True,True,True,False,6,6,Apache License 2.0,6,6,11,master,7,1,8.0
+Toparvion/jmint,jMint is a side effect injection (SEI) Java tool aimed at simplicity of modifications expression,False,2016-05-20T03:05:11Z,2019-10-11T07:28:37Z,2018-03-15T01:05:47Z,933,19,19,Java,True,True,True,True,True,2,3,Other,2,3,19,master,3,3,20.0
+UCL-CREST/Siamese,Siamese: a scalable code clone search engine,False,2016-02-08T17:54:33Z,2019-11-05T08:07:12Z,2019-05-26T12:28:12Z,348929,11,11,Java,True,True,True,True,True,8,8,,8,8,11,master,5,2,4.0
+UNIVALI-LITE/Portugol-Studio,Ambiente de Programação didático para a linguagem Portugol 2.0,False,2011-08-04T21:14:26Z,2019-12-13T11:28:43Z,2019-11-29T12:51:16Z,77403,181,181,Java,True,True,True,True,True,104,56,GNU Lesser General Public License v3.0,104,56,181,master,26,2,17.0
+XiaoMi/linden,,False,2016-12-14T07:38:38Z,2019-12-10T02:56:18Z,2018-08-15T10:14:33Z,4079,221,221,Java,True,True,True,False,False,50,1,Apache License 2.0,50,1,221,master,36,1,3.0
+YigWoo/toys,,False,2015-01-31T16:20:10Z,2019-10-12T04:07:07Z,2018-11-06T03:04:32Z,518,23,23,Java,True,True,True,True,False,27,1,,27,1,23,master,2,5,0.0
+YouthLin/SNL-Compiler,SNL(Small Nested Language) Compiler. Maven jUnit Tokenizer Lexer Syntax Parser. 编译原理 词法分析 语法分析,False,2016-05-28T15:31:19Z,2019-06-29T08:13:21Z,2018-05-18T09:32:18Z,28693,14,14,Java,True,True,True,True,False,6,0,,6,0,14,master,1,1,0.0
+abcdabcd987/compiler2016,Toy Compiler for Compiler 2016 Course,False,2016-05-12T13:46:53Z,2019-12-10T05:38:50Z,2016-05-18T15:34:38Z,2369,46,46,Java,True,True,True,True,False,5,1,,5,1,46,master,6,1,15.0
+abstools/abstools,The ABS modeling language and surrounding tools,False,2015-04-23T09:00:35Z,2019-12-11T18:23:14Z,2019-12-13T16:04:27Z,177422,16,16,Java,True,True,True,True,False,18,49,,18,49,16,master,17,1,3.0
+adamkewley/jobson,A platform for transforming command-line applications into a job service.,False,2017-09-30T09:06:01Z,2019-11-03T17:28:51Z,2019-11-03T17:28:49Z,15017,136,136,Java,True,True,True,True,True,7,3,Apache License 2.0,7,3,136,master,8,1,1.0
+agacek/jkind,JKind - An infinite-state model checker for safety properties in Lustre,False,2012-10-24T16:48:33Z,2019-09-19T13:46:21Z,2019-12-12T00:35:25Z,26472,19,19,Java,True,True,True,True,False,22,6,"BSD 3-Clause ""New"" or ""Revised"" License",22,6,19,master,9,5,30.0
+ahmetaa/zemberek-nlp,NLP tools for Turkish.,False,2013-06-03T06:04:14Z,2019-12-14T10:48:49Z,2019-12-12T19:50:53Z,54312,722,722,Java,True,True,True,True,False,152,34,Other,152,34,722,master,101,1,3.0
+airbnb/SpinalTap,Change Data Capture (CDC) service,False,2018-02-20T19:42:30Z,2019-12-07T10:00:23Z,2019-06-10T22:33:19Z,520,232,232,Java,True,True,True,False,False,42,0,Apache License 2.0,42,0,232,master,24,1,1.0
+alchitry/Alchitry-Labs,,False,2018-08-04T21:56:26Z,2019-11-07T13:16:17Z,2019-09-24T22:39:53Z,42458,14,14,Java,True,True,True,True,False,3,8,GNU General Public License v3.0,3,8,14,master,1,4,42.0
+alexec/antlr-tutorial,,False,2014-02-09T17:24:49Z,2019-09-05T10:59:37Z,2014-07-19T22:43:33Z,156,12,12,Java,True,True,True,True,False,9,1,,9,1,12,master,0,1,2.0
+alibaba/simplehbase,Simplehbase is a lightweight ORM framework between java app and hbase.,False,2013-11-29T14:55:18Z,2019-11-08T06:01:30Z,2016-08-25T06:23:34Z,6248,164,164,Java,True,True,True,True,False,127,11,,127,11,164,master,46,1,9.0
+aliyun/aliyun-odps-console,ODPS Console Source Code.,False,2015-12-07T07:31:41Z,2019-12-12T00:15:30Z,2019-10-16T09:45:25Z,14024,42,42,Java,True,True,True,True,False,12,3,,12,3,42,master,16,1,0.0
+alpha-asp/Alpha,The Alpha solver for lazy-grounding Answer-Set Programming.,False,2016-07-08T10:52:13Z,2019-12-05T16:52:22Z,2019-12-13T21:17:00Z,29112,26,26,Java,True,True,True,True,False,3,52,"BSD 2-Clause ""Simplified"" License",3,52,26,master,7,2,12.0
+altairmn/COOL-Compiler,Compiler for COOL. Uses ANTLR and LLVM Toolchain. Written in JAVA.,False,2016-02-07T14:13:04Z,2019-11-29T13:52:11Z,2016-02-07T14:13:57Z,75,33,33,Java,True,True,True,True,False,16,1,,16,1,33,master,5,2,18.0
+ankor-io/ankor-framework,Ankor Framework,False,2014-02-27T13:53:58Z,2018-12-07T05:12:31Z,2018-10-17T09:17:19Z,20452,12,12,Java,True,True,True,True,False,2,3,Apache License 2.0,2,3,12,stable,6,1,1.0
+antlr/antlr4-intellij-adaptor,A library to support the use of ANTLR grammars in jetbrains IDE plugins for building custom languages.,False,2015-11-16T17:33:04Z,2019-12-04T08:10:27Z,2019-02-21T21:46:38Z,333,96,96,Java,True,True,True,True,False,26,6,"BSD 2-Clause ""Simplified"" License",26,6,96,master,11,1,12.0
+antlr/intellij-plugin-v4,"An intellij plugin for ANTLR v4 in Intellij 12.1, 13.X, 2018.2",False,2013-10-02T02:10:48Z,2019-12-14T14:22:07Z,2019-12-14T14:22:05Z,28199,264,264,Java,True,True,True,True,False,59,31,"BSD 3-Clause ""New"" or ""Revised"" License",59,31,264,master,21,6,33.0
+antlr/jetbrains-plugin-sample,A sample plugin for jetbrains IDEs that uses an ANTLR grammar for a nontrivial custom language.,False,2015-12-15T20:44:14Z,2019-12-13T05:12:10Z,2019-02-14T20:54:01Z,3338,63,63,Java,True,True,True,True,False,19,1,"BSD 2-Clause ""Simplified"" License",19,1,63,master,10,1,1.0
+antlr/jetbrains-plugin-st4,An intellij/jetbrains plugin for StringTemplate .st and .stg files,False,2015-11-09T17:27:04Z,2019-07-19T08:18:50Z,2019-01-18T11:14:32Z,2218,14,14,Java,True,True,True,True,False,7,0,"BSD 2-Clause ""Simplified"" License",7,0,14,master,4,6,17.0
+antlr4ide/antlr4ide,ANTLR 4 IDE for Eclipse,False,2014-01-02T20:21:48Z,2019-12-12T21:19:16Z,2019-05-17T18:13:28Z,117699,188,188,Java,True,True,True,True,False,110,28,Eclipse Public License 1.0,110,28,188,master,35,11,1.0
+antlrjavaparser/antlr-java-parser,Antlr Java Parser aims to create a Java parser using Antlr 4 grammar rules.,False,2012-12-28T19:03:36Z,2019-11-27T02:38:04Z,2015-07-21T20:29:58Z,3577,44,44,Java,True,True,True,True,False,13,6,GNU Lesser General Public License v3.0,13,6,44,master,4,2,10.0
+aosp-mirror/platform_frameworks_support,,False,2012-04-10T04:06:44Z,2019-12-11T10:22:55Z,2019-11-16T07:56:40Z,354693,1552,1552,Java,False,False,True,False,False,646,0,Apache License 2.0,646,0,1552,androidx-master-dev,153,1,0.0
+apache/apex-malhar,Mirror of Apache Apex malhar,False,2015-08-25T07:00:05Z,2019-11-13T07:49:29Z,2019-11-13T07:42:03Z,91989,132,132,Java,False,True,True,False,True,150,12,Apache License 2.0,150,12,132,master,28,1,4.0
+apache/atlas,Apache Atlas,False,2017-07-22T07:00:08Z,2019-12-14T12:22:00Z,2019-12-14T05:39:59Z,54470,417,417,Java,False,True,True,False,False,265,30,Apache License 2.0,265,30,417,master,41,2,5.0
+apache/beam,Apache Beam,False,2016-02-02T08:00:06Z,2019-12-14T03:01:14Z,2019-12-14T02:04:35Z,139890,3561,3561,Java,False,True,True,False,False,2207,153,Apache License 2.0,2207,153,3561,master,251,1,1.0
+apache/directory-scimple,Apache Directory SCIMple,False,2018-06-18T19:04:19Z,2019-09-16T03:42:02Z,2018-12-14T04:19:46Z,1487,11,11,Java,False,False,True,False,False,4,2,Apache License 2.0,4,2,11,develop,16,5,6.0
+apache/drill,Apache Drill,False,2012-09-05T07:00:26Z,2019-12-13T06:25:43Z,2019-12-14T12:02:49Z,84066,1316,1316,Java,False,True,True,False,True,778,74,Apache License 2.0,778,74,1316,master,170,3,4.0
+apache/eagle,Mirror of Apache Eagle,False,2015-11-18T08:00:06Z,2019-12-13T04:10:20Z,2019-11-20T15:50:53Z,35666,384,384,Java,False,True,True,False,False,187,10,Apache License 2.0,187,10,384,master,62,1,7.0
+apache/groovy,Mirror of Apache Groovy,False,2015-04-16T07:00:05Z,2019-12-13T22:22:16Z,2019-12-14T14:44:37Z,182734,3502,3502,Java,False,True,True,False,False,1362,14,Apache License 2.0,1362,14,3502,master,232,2,16.0
+apache/hive,Apache Hive,False,2009-05-21T02:31:01Z,2019-12-14T12:12:28Z,2019-12-14T05:41:45Z,489863,2907,2907,Java,False,True,True,False,False,2800,362,Apache License 2.0,2800,362,2907,master,319,1,11.0
+apache/incubator-druid,Apache Druid (Incubating) - Column oriented distributed data store ideal for powering interactive applications,False,2012-10-23T19:08:07Z,2019-12-14T02:12:21Z,2019-12-14T00:54:19Z,197864,8952,8952,Java,True,True,True,True,False,2301,910,Apache License 2.0,2301,910,8952,master,630,2,3.0
+apache/incubator-pinot,Apache Pinot (Incubating) - A realtime distributed OLAP datastore,False,2014-05-19T23:27:48Z,2019-12-13T22:53:07Z,2019-12-14T00:43:50Z,180520,2413,2413,Java,True,True,True,True,False,469,323,Apache License 2.0,469,323,2413,master,200,1,5.0
+apache/incubator-tajo,Mirror of Apache Tajo,False,2014-03-21T07:00:07Z,2019-07-11T14:15:59Z,2018-12-10T16:03:41Z,7327,23,23,Java,False,True,True,False,False,15,0,Apache License 2.0,15,0,23,master,7,4,7.0
+apache/incubator-tuweni,Apache Tuweni,False,2019-03-29T19:02:36Z,2019-12-07T00:29:36Z,2019-12-07T00:28:28Z,42330,35,35,Java,False,False,True,False,False,29,0,Apache License 2.0,29,0,35,master,13,2,8.0
+apache/lucene-solr,Apache Lucene and Solr open-source search software,False,2016-01-23T08:00:06Z,2019-12-14T13:47:30Z,2019-12-14T09:23:45Z,494081,3129,3129,Java,False,True,True,False,False,2194,234,,2194,234,3129,master,307,1,6.0
+apache/metron,Apache Metron,False,2015-12-08T08:00:05Z,2019-12-14T00:29:52Z,2019-12-13T23:18:44Z,97282,707,707,Java,False,True,True,False,False,471,24,Apache License 2.0,471,24,707,master,107,2,15.0
+apache/netbeans,Apache NetBeans,False,2017-09-01T07:00:11Z,2019-12-13T20:47:00Z,2019-12-14T10:20:53Z,178429,1219,1219,Java,False,True,True,False,False,469,71,Apache License 2.0,469,71,1219,master,145,1,18.0
+apache/plc4x,Apache PLC4X,False,2017-12-20T08:00:09Z,2019-12-13T12:46:42Z,2019-12-14T03:38:54Z,110113,147,147,Java,False,True,True,False,False,79,5,Apache License 2.0,79,5,147,develop,33,3,2.0
+apache/skywalking,"APM, Application Performance Monitoring System",False,2015-11-07T03:30:36Z,2019-12-14T14:33:02Z,2019-12-14T14:30:14Z,147054,11657,11657,Java,True,False,True,False,False,3394,85,Apache License 2.0,3394,85,11657,master,733,2,1.0
+apache/syncope,Apache Syncope,False,2014-10-23T07:00:10Z,2019-12-13T14:47:24Z,2019-12-13T14:47:21Z,50068,99,99,Java,False,True,True,False,False,99,2,Apache License 2.0,99,2,99,master,30,1,2.0
+apache/systemml,Mirror of Apache SystemML,False,2015-11-10T08:00:06Z,2019-11-30T21:47:11Z,2019-08-09T14:20:36Z,210926,786,786,Java,False,True,True,False,True,308,24,Apache License 2.0,308,24,786,master,103,2,23.0
+apache/tajo,Mirror of Apache Tajo,False,2014-03-21T07:00:07Z,2019-09-08T13:14:52Z,2019-09-11T07:16:21Z,30701,118,118,Java,False,True,True,False,False,104,34,Apache License 2.0,104,34,118,master,21,2,4.0
+apollographql/apollo-android,":pager: A strongly-typed, caching GraphQL client for Android and the JVM",False,2016-09-28T14:03:30Z,2019-12-14T12:43:28Z,2019-12-14T12:27:57Z,143875,1995,1995,Java,True,False,True,True,True,379,93,MIT License,379,93,1995,master,92,1,0.0
+arcus-smart-home/arcusplatform,Java Based Arcus Platform and Agent Components,False,2019-01-29T16:49:10Z,2019-12-13T15:21:21Z,2019-12-11T02:30:56Z,416873,61,61,Java,True,True,True,True,False,41,20,Apache License 2.0,41,20,61,master,28,4,3.0
+artist-project/ARTIST,Public repository containing ARTIST tools and artefacts.,False,2014-05-20T09:50:21Z,2019-11-28T01:10:20Z,2015-10-22T08:05:38Z,621269,11,11,Java,True,True,True,True,False,10,0,,10,0,11,master,38,1,0.0
+asciidoctor/asciidoc-grammar-prototype,:no_entry: ARCHIVED: An experiment to create of a formal grammar for the AsciiDoc markup language. Work is being continued at https://github.com/Mogztter/asciidoctor-inline-parser.,False,2015-04-02T10:42:12Z,2019-10-31T09:48:25Z,2018-11-24T21:56:12Z,108,12,12,Java,True,True,True,False,False,6,4,MIT License,6,4,12,master,13,1,1.0
+atlascommunity/jira-plugins-groovy,Jira Groovy plugin,False,2018-04-06T09:57:26Z,2019-12-08T12:45:52Z,2019-12-08T12:47:56Z,2550,29,29,Java,True,True,True,True,False,18,6,"BSD 2-Clause ""Simplified"" License",18,6,29,jira8,15,3,2.0
+babyfish-ct/babyfish,,False,2015-10-17T13:17:31Z,2019-05-06T12:19:37Z,2017-10-02T18:53:52Z,5105,49,49,Java,True,True,True,True,False,23,1,,23,1,49,master,16,1,1.0
+ballerina-platform/ballerina-lang,The Ballerina Programming Language,False,2016-11-16T14:58:44Z,2019-12-13T14:22:43Z,2019-12-14T14:56:38Z,461628,2245,2245,Java,True,True,True,True,False,505,1094,Other,505,1094,2245,master,150,5,63.0
+bbejeck/sql-for-lucene,Sql Parser written in Antlr4 for Lucene ,False,2015-03-29T23:57:48Z,2019-11-21T08:53:56Z,2018-04-28T12:58:15Z,7067,35,35,Java,True,True,True,True,False,15,1,Apache License 2.0,15,1,35,master,6,1,9.0
+bitnine-oss/octopus,,False,2015-04-02T08:20:27Z,2019-05-22T04:58:56Z,2016-01-29T01:15:20Z,2216,13,13,Java,True,True,True,True,True,8,1,Apache License 2.0,8,1,13,master,8,1,2.0
+bkiers/Liqp,An ANTLR based 'Liquid Template' parser and rendering engine.,False,2012-02-27T20:57:32Z,2019-12-06T17:58:39Z,2019-11-25T11:38:36Z,10023,93,93,Java,True,True,True,True,False,60,8,Other,60,8,93,master,16,2,82.0
+bkiers/Mu,A small demonstration how to use ANTLR 4's visitor feature.,False,2013-03-25T12:43:31Z,2019-07-28T22:29:25Z,2014-09-02T21:25:10Z,1239,55,55,Java,True,True,True,True,False,24,0,,24,0,55,master,10,1,2.0
+bkiers/ecmascript-parser,An ANTLR4 grammar for ECMAScript 5.1,False,2014-04-22T09:22:33Z,2018-10-11T12:53:11Z,2017-07-13T08:06:28Z,53,12,12,Java,True,True,True,True,False,2,0,MIT License,2,0,12,master,3,1,4.0
+bkiers/pcre-parser,An ANTLR 4 grammar for PCRE,False,2014-03-21T09:02:44Z,2019-06-06T13:41:07Z,2018-11-19T11:37:25Z,22,22,22,ANTLR,True,True,True,True,False,3,0,Other,3,0,22,master,2,1,2.0
+bkiers/rrd-antlr4,Railroad Diagrams for ANTLR 4 grammar rules.,False,2014-03-11T19:29:07Z,2019-11-27T08:38:33Z,2018-12-12T05:54:53Z,13871,68,68,ANTLR,True,True,True,True,False,16,0,Other,16,0,68,master,5,5,2.0
+bkiers/tiny-language-antlr4,Tiny Language with ANTLR 4,False,2013-10-22T12:48:15Z,2019-12-01T10:36:16Z,2019-12-05T22:21:55Z,36,122,122,Java,True,True,True,True,False,35,1,The Unlicense,35,1,122,master,13,1,5.0
+blindpirate/the-definitive-antlr4-reference-code,"A copy of code in ""The Definitive ANTLR 4 Reference"" for ANTLR 4.6",False,2016-12-27T03:45:43Z,2019-11-09T16:20:18Z,2017-05-10T06:43:21Z,7,16,16,ANTLR,True,True,True,True,False,5,0,,5,0,16,master,1,5,0.0
+bohnman/squiggly,"The Squiggly Filter is a Jackson JSON PropertyFilter, which selects properties of an object/list/map using a subset of the Facebook Graph API filtering syntax.",False,2016-10-16T02:27:08Z,2019-12-06T08:56:11Z,2019-11-13T03:21:45Z,1265,160,160,Java,True,True,True,True,False,27,25,"BSD 3-Clause ""New"" or ""Revised"" License",27,25,160,master,19,1,2.0
+boothen/Json-Eclipse-Plugin,A fork from the json editor on sourceforge,False,2012-07-26T20:21:19Z,2019-11-15T07:41:18Z,2019-03-03T12:22:52Z,3113,52,52,Java,True,True,True,False,True,14,9,Eclipse Public License 1.0,14,9,52,master,8,2,30.0
+bootsrc/apidoc4j,APIDOC java implementation via ANTLR,False,2018-01-10T14:30:08Z,2019-04-12T08:36:13Z,2018-01-14T09:58:36Z,86,32,32,Java,True,True,True,True,False,2,0,,2,0,32,master,1,4,12.0
+bozsahin/ceng444,METU Computer science introductory compiler course: Language Processors,False,2018-08-19T14:39:11Z,2019-12-09T07:52:26Z,2019-12-09T07:52:24Z,86087,19,19,Java,True,True,True,True,False,2,0,,2,0,19,master,6,3,12.0
+brettwooldridge/jet,Swift-to-JVM bytecode compiler.,False,2014-06-03T04:08:43Z,2019-08-13T15:43:00Z,2014-08-17T13:50:02Z,204,47,47,ANTLR,True,True,True,True,False,3,1,Apache License 2.0,3,1,47,master,8,8,0.0
+brunocvcunha/mdmlang,🔄  Natural Transformation Language for Java,False,2015-07-06T18:58:35Z,2019-08-29T17:36:07Z,2016-07-01T05:34:24Z,51,13,13,Java,True,True,True,True,True,0,0,Apache License 2.0,0,0,13,master,1,1,1.0
+btrplace/scheduler,BtrPlace is a virtual machine scheduler. You can specialized it safely through independent constraints to make it support what match your expectations.,False,2013-02-25T10:14:20Z,2019-12-02T08:09:56Z,2019-12-02T08:15:20Z,91770,50,50,Java,True,True,True,True,False,11,24,GNU Lesser General Public License v3.0,11,24,50,master,5,1,3.0
+buildpal/buildpal-platform,A docker native light-weight continuous integration server,False,2017-12-30T05:54:42Z,2019-09-06T07:47:37Z,2018-01-27T23:47:41Z,224,18,18,Java,True,True,True,True,False,6,0,,6,0,18,master,7,1,1.0
+byuccl/RapidSmith2,"RapidSmith2 - the Vivado successor to RapidSmith. Released Jan 4, 2017.",False,2016-07-07T21:43:03Z,2019-08-26T22:46:34Z,2019-12-03T02:47:35Z,529634,17,17,Java,True,True,True,True,True,6,47,Other,6,47,17,master,9,3,5.0
+camertron/SQLParser,ANTLR4-based SQL Parser extracted from Apache Tajo,False,2014-03-09T22:54:50Z,2019-08-12T16:15:20Z,2019-08-12T16:15:18Z,1373,13,13,Java,True,True,True,True,False,8,0,,8,0,13,master,5,2,5.0
+carrotsearch/hppc,High Performance Primitive Collections for Java,False,2011-02-22T15:14:20Z,2019-12-11T16:10:10Z,2019-05-14T07:15:45Z,45432,636,636,Java,False,True,True,True,True,103,0,Apache License 2.0,103,0,636,master,62,2,3.0
+castlemock/castlemock,Castle Mock is a web application that provides the functionality to mock out RESTful APIs and SOAP web services. ,False,2016-07-17T13:57:57Z,2019-11-27T12:07:21Z,2019-11-26T21:43:11Z,12770,75,75,Java,True,True,True,True,False,22,30,Other,22,30,75,master,18,1,9.0
+cesquivias/mumbler,My experimental programming language using Truffle,False,2014-09-29T12:51:59Z,2019-12-11T16:29:30Z,2016-09-28T06:11:05Z,308,79,79,Java,True,True,True,True,False,11,1,GNU General Public License v3.0,11,1,79,master,6,1,3.0
+cfparser/cfparser,testcfmlparser,False,2014-08-11T02:42:47Z,2019-11-18T03:12:00Z,2019-11-20T02:29:35Z,9656,17,17,Java,True,True,True,True,False,11,5,,11,5,17,master,11,4,76.0
+chanedi/QuickProject,,False,2014-02-10T12:59:39Z,2019-05-27T06:52:50Z,2016-12-30T10:50:31Z,474,28,28,Java,True,True,True,True,False,22,2,Apache License 2.0,22,2,28,master,12,2,6.0
+charite/jannovar,Annotation of VCF variants with functional impact and from databases (executable+library),False,2013-07-07T12:57:20Z,2019-11-26T17:26:19Z,2019-11-15T12:57:04Z,24053,32,32,Java,True,True,True,False,True,31,24,Other,31,24,32,master,11,2,9.0
+checkstyle/checkstyle,"Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",False,2013-08-31T02:05:05Z,2019-12-14T08:18:08Z,2019-12-14T14:33:16Z,65753,4978,4978,Java,True,True,True,True,False,7105,508,Other,7105,508,4978,master,211,1,11.0
+claw-project/claw-compiler,CLAW Compiler for Performance Portability,False,2016-01-18T08:23:03Z,2019-12-09T15:27:16Z,2019-12-09T15:27:47Z,7854,30,30,Java,True,True,True,True,False,10,18,"BSD 2-Clause ""Simplified"" License",10,18,30,master,4,2,1.0
+clnhlzmn/CopperKitten,An exercise in programming language design and implementation.,False,2018-05-03T17:33:39Z,2019-11-10T21:43:05Z,2019-08-26T14:03:17Z,36793,20,20,Java,True,True,True,True,False,0,0,,0,0,20,master,1,2,12.0
+clouditor/clouditor,The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC.,False,2019-05-13T09:21:40Z,2019-11-22T14:53:09Z,2019-12-10T09:41:48Z,2679,17,17,Java,True,True,True,False,False,5,24,Apache License 2.0,5,24,17,master,5,1,1.0
+cmu-able/rainbow,Rainbow self-adaptive framework ,False,2017-11-01T16:23:21Z,2019-11-30T01:48:48Z,2019-12-13T20:22:52Z,129533,19,19,Java,True,True,True,True,True,14,7,Other,14,7,19,master,11,3,15.0
+codelion/gramtest,GramTest: A tool for Grammar based Test case generation,False,2015-04-20T05:59:37Z,2019-12-10T13:41:46Z,2018-05-20T02:35:32Z,93,64,64,Java,True,True,True,True,False,11,3,Apache License 2.0,11,3,64,master,4,1,4.0
+codice/alliance,,False,2016-02-29T16:10:33Z,2019-12-11T16:18:26Z,2019-12-11T16:18:39Z,87238,32,32,Java,True,True,True,False,False,89,12,Other,89,12,32,master,32,1,1.0
+collectionspace/services,The CollectionSpace service layer with a RESTful API,False,2012-02-16T15:20:04Z,2019-11-05T23:52:11Z,2019-12-13T01:07:27Z,521627,19,19,Java,True,True,True,True,False,35,1,Other,35,1,19,master,8,1,1.0
+colomoto/bioLQM,toolkit for the manipulation and analysis of Logical Qualitative Models of biological regulatory networks,False,2012-07-05T09:27:10Z,2019-12-13T09:29:39Z,2019-10-01T11:17:09Z,1429,11,11,Java,True,True,True,True,True,8,6,GNU Lesser General Public License v3.0,8,6,11,master,8,7,8.0
+confluentinc/ksql,The event streaming database purpose-built for stream processing applications,False,2016-09-27T21:30:15Z,2019-12-14T14:08:07Z,2019-12-13T23:38:59Z,39348,3037,3037,Java,True,True,True,True,False,575,629,Other,575,629,3037,master,307,1,15.0
+cqframework/clinical_quality_language,Clinical Quality Language (CQL) is an HL7 specification for the expression of clinical knowledge that can be used within both the Clinical Decision Support (CDS) and Clinical Quality Measurement (CQM) domains. This repository contains complementary tooling in support of that specification.,False,2014-08-26T17:30:05Z,2019-12-09T10:44:51Z,2019-12-05T23:03:40Z,15525,124,124,Java,True,True,True,True,False,69,48,Apache License 2.0,69,48,124,master,45,3,16.0
+crate/crate,CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.,False,2013-04-10T09:17:16Z,2019-12-13T21:33:56Z,2019-12-13T10:39:15Z,97010,2620,2620,Java,True,True,True,False,False,361,100,Apache License 2.0,361,100,2620,master,166,1,5.0
+crossminer/scava,,False,2017-12-11T15:56:15Z,2019-12-05T12:26:32Z,2019-12-13T20:52:49Z,1903008,14,14,Java,True,True,True,True,False,11,77,Eclipse Public License 2.0,11,77,14,master,14,8,13.0
+crossmob/CrossMobile,"  Create native iOS, Android, Windows Phone and Desktop applications in Java. Write it once, and produce sophisticated multiplatform applications.",False,2019-05-01T20:25:41Z,2019-12-04T21:26:02Z,2019-12-04T21:26:00Z,18443,23,23,Java,True,True,True,True,False,6,0,Other,6,0,23,master,3,2,15.0
+cyberthinkers/typescript-to-scala-js-facade,This tool will create JavaScript facades for Scala.js from typescript ambient declarations. ,False,2016-06-30T19:22:52Z,2018-04-25T22:04:15Z,2018-02-04T21:51:06Z,178,19,19,Java,True,True,True,True,False,1,0,Apache License 2.0,1,0,19,master,4,1,10.0
+cytosm/cytosm,OpenCypher to SQL Mapper,False,2016-12-12T17:30:55Z,2019-11-28T15:06:03Z,2018-10-09T20:16:51Z,1250,37,37,Java,True,True,True,True,False,12,5,Other,12,5,37,master,7,2,2.0
+daimor/NBStudio,Alternative IDE/Studio for InterSystems Caché on Netbeans Platform,False,2013-09-20T18:21:09Z,2019-11-28T10:38:37Z,2015-07-17T20:16:58Z,19369,23,23,Java,True,True,True,True,True,6,5,MIT License,6,5,23,master,11,6,10.0
+dapeng-soa/dapeng-soa,"A lightweight, high performance micro-service framework",False,2018-01-08T03:58:38Z,2019-11-26T11:52:47Z,2019-12-11T06:23:05Z,9893,72,72,Java,True,True,True,True,False,22,3,Apache License 2.0,22,3,72,master,15,1,0.0
+daqcri/rheem,Rheem Project,False,2016-06-09T09:15:18Z,2018-11-02T07:01:30Z,2018-08-30T12:47:43Z,143140,16,16,Java,True,True,True,True,True,8,1,Apache License 2.0,8,1,16,master,11,1,1.0
+data-integrations/wrangler,Wrangler Transform: A DMD system for transforming Big Data,False,2016-11-27T19:01:32Z,2019-12-13T18:33:07Z,2019-12-14T08:44:41Z,31466,21,21,Java,False,False,True,True,False,18,4,Apache License 2.0,18,4,21,release/4.1,5,1,3.0
+datasphere-oss/datasphere-service,an open source dataworks platform ,False,2019-08-22T11:58:35Z,2019-12-07T05:12:33Z,2019-12-07T05:12:31Z,7000,15,15,Java,True,True,True,True,False,4,2,,4,2,15,master,4,3,3.0
+datathings/greycat,"GreyCat - Data Analytics, Temporal data, What-if, Live machine learning",False,2017-02-03T11:02:04Z,2019-12-13T21:01:47Z,2019-11-20T01:35:36Z,68340,81,81,Java,True,True,True,True,True,20,49,Apache License 2.0,20,49,81,master,19,1,1.0
+dbiir/rainbow,A data layout optimization framework for wide tables stored on HDFS. See rainbow's webpage ,False,2017-05-04T10:14:09Z,2019-12-06T14:56:35Z,2018-06-19T07:47:25Z,68337,61,61,Java,True,True,True,True,True,40,2,Apache License 2.0,40,2,61,master,5,2,8.0
+debezium/debezium,Change data capture for a variety of databases. https://debezium.io Please log issues in our JIRA at https://issues.jboss.org/projects/DBZ/issues,False,2016-01-22T20:17:05Z,2019-12-14T10:35:52Z,2019-12-13T17:28:59Z,10146,2430,2430,Java,False,True,True,True,False,644,12,Other,644,12,2430,master,145,4,13.0
+defano/wyldcard,A clone of Apple's HyperCard and HyperTalk scripting language.,False,2015-05-08T02:46:50Z,2019-11-24T02:15:14Z,2019-07-05T13:37:48Z,5631,37,37,Java,True,True,True,True,False,2,3,MIT License,2,3,37,master,3,1,211.0
+developeron29/PLSQLParser,A PLSQL parser built using Java and ANTLR4 ,False,2014-02-18T15:54:46Z,2019-07-14T14:18:02Z,2019-03-22T16:53:56Z,660,20,20,Java,True,True,True,True,False,16,1,MIT License,16,1,20,master,7,1,4.0
+devinfrench/runelite-ext,RuneLite Extended - Modified Old School RuneScape RuneLite Client,False,2018-05-24T20:15:46Z,2019-12-03T23:10:14Z,2019-11-02T09:26:27Z,16710,11,11,Java,True,True,True,True,False,16,4,"BSD 2-Clause ""Simplified"" License",16,4,11,master,4,1,2.0
+dhis2/dhis2-core,DHIS 2 Core. Written in Java. Contains the service layer and Web API.,False,2016-08-30T12:57:05Z,2019-12-12T09:34:26Z,2019-12-14T11:16:32Z,77330,147,147,Java,False,False,True,True,False,162,33,"BSD 3-Clause ""New"" or ""Revised"" License",162,33,147,master,49,1,4.0
+diqube/diqube,"diqube is a fast, distributed, in-memory column-store which enables you to analyze large amounts of read-only data easily",False,2015-07-10T13:34:28Z,2017-09-13T16:17:52Z,2019-12-09T17:15:54Z,3178,17,17,Java,True,True,True,True,False,1,63,GNU Affero General Public License v3.0,1,63,17,master,4,1,7.0
+dma-ais/AisLib,DMA AisLib - Java library for handling AIS messages,False,2012-11-01T12:38:22Z,2019-11-30T09:37:59Z,2019-11-13T08:31:56Z,3431,90,90,Java,True,True,True,True,False,64,12,Other,64,12,90,master,30,1,7.0
+donatellosantoro/Llunatic,The Llunatic Mapping and Cleaning Chase Engine,False,2014-07-27T16:29:19Z,2019-09-22T22:30:54Z,2019-04-29T16:41:56Z,102827,19,19,Java,True,True,True,True,False,6,0,GNU General Public License v3.0,6,0,19,master,8,3,15.0
+doov-io/doov,dOOv (Domain Object Oriented Validation) a fluent API for type-safe bean validation and mapping,False,2018-08-13T13:47:00Z,2019-12-13T08:45:39Z,2019-11-05T13:30:52Z,9618,45,45,Java,True,True,True,True,True,6,0,Apache License 2.0,6,0,45,master,14,4,13.0
+dst-project/dst,A distributed key-value in-memory store system with table concept.,False,2019-05-22T14:45:00Z,2019-12-14T05:33:11Z,2019-12-14T15:26:29Z,510,24,24,Java,True,True,True,True,True,13,52,,13,52,24,master,5,1,3.0
+dungba88/libra,"Java Predicate, supports SQL-like syntax",False,2017-11-10T20:21:51Z,2019-11-08T09:55:21Z,2019-08-15T07:57:24Z,554,22,22,Java,True,True,True,True,False,0,0,MIT License,0,0,22,master,5,4,2.0
+eBay/Eagle,"This codebase is retained for historical interest only, please visit Apache Incubator Repository for latest one",False,2015-10-16T21:36:50Z,2019-08-18T16:53:32Z,2015-11-21T07:36:37Z,4142,193,193,Java,False,True,True,True,False,59,0,Apache License 2.0,59,0,193,master,42,1,7.0
+ebean-orm/ebean,Ebean ORM,False,2012-09-13T11:49:56Z,2019-12-14T04:38:49Z,2019-12-13T01:21:00Z,20401,979,979,Java,True,False,True,True,True,219,10,Other,219,10,979,master,77,1,7.0
+eclecticlogic/stepper,Stepper allows you to write AWS Step Functions using a higher level programmatic language.,False,2014-12-20T21:51:28Z,2019-09-12T08:09:59Z,2019-07-27T12:40:24Z,353,12,12,Java,True,True,True,True,True,2,0,Apache License 2.0,2,0,12,master,1,1,8.0
+eclipse/jnosql,Eclipse JNoSQL is a framework which has the goal to help Java developers to create Jakarta EE applications with NoSQL.,False,2016-07-14T21:58:40Z,2019-12-11T14:15:09Z,2019-12-07T19:42:50Z,5384,124,124,Java,True,True,True,False,False,37,15,Other,37,15,124,master,36,2,19.0
+eclipse/titan.EclipsePlug-ins,,False,2015-01-12T21:13:36Z,2019-12-13T17:04:20Z,2019-12-14T07:33:18Z,126388,17,17,Java,True,True,True,True,False,36,0,Other,36,0,17,master,11,20,92.0
+eclipse/winery,Eclipse Winery project,False,2015-09-17T00:31:44Z,2019-12-12T12:22:18Z,2019-12-13T17:12:03Z,27334,34,34,Java,True,True,True,True,True,38,38,Other,38,38,34,master,9,1,6.0
+ehrbase/ehrbase,,False,2019-10-08T08:54:57Z,2019-12-13T09:21:14Z,2019-12-13T12:32:33Z,9676,13,13,Java,True,True,True,True,False,9,21,Other,9,21,13,develop,7,1,11.0
+elastic/elasticsearch,"Open Source, Distributed, RESTful Search Engine",False,2010-02-08T13:20:56Z,2019-12-14T11:51:15Z,2019-12-14T13:46:48Z,692069,45969,45969,Java,True,True,True,False,False,15539,2321,Other,15539,2321,45969,master,2799,3,23.0
+er-lang/er,"er ~ emergency room (a BEAM language ""improving"" on Erlang)",False,2013-10-29T11:42:40Z,2019-01-12T18:29:25Z,2019-01-05T19:56:58Z,24607,31,31,ANTLR,True,False,True,False,False,4,0,,4,0,31,master,2,2,0.0
+ethereumj/ethereumj,Ethereum pure Java implementation. ,False,2014-09-26T14:47:51Z,2019-12-03T18:50:22Z,2014-11-03T17:12:13Z,14209,25,25,Java,True,True,True,False,False,21,2,MIT License,21,2,25,master,5,1,4.0
+eugenp/tutorials,"Just Announced - ""Learn Spring Security OAuth"": ",False,2013-04-29T18:26:36Z,2019-12-14T14:51:38Z,2019-12-14T15:32:47Z,250098,18549,18549,Java,True,True,True,True,False,28444,60,MIT License,28444,60,18549,master,1356,2,3.0
+exense/step,Scalable Test Execution Platform,False,2016-06-30T21:08:29Z,2019-12-13T16:22:54Z,2019-12-13T16:22:52Z,131910,12,12,Java,False,True,True,True,False,0,1,GNU Affero General Public License v3.0,0,1,12,master,7,1,8.0
+eyob--/j2swift,A java to swift converter,False,2015-08-10T18:17:53Z,2019-12-03T12:55:52Z,2015-08-23T06:10:36Z,316,17,17,Java,True,True,True,True,False,4,1,,4,1,17,master,3,1,6.0
+fang-yan-peng/badger,轻量级单表操作dao框架，支持分库分表,False,2019-02-13T07:04:45Z,2019-09-30T07:52:51Z,2019-05-13T13:56:11Z,206,13,13,Java,True,True,True,True,False,3,1,,3,1,13,master,1,1,6.0
+fbacchella/LogHub,,False,2014-08-07T15:10:10Z,2019-12-10T14:17:13Z,2019-12-10T14:17:10Z,33309,35,35,Java,True,True,True,True,False,4,5,Other,4,5,35,master,10,1,9.0
+fizzed/rocker,"Java 8 optimized, memory efficient, speedy template engine producing statically typed, plain java objects",False,2015-03-17T23:52:08Z,2019-12-11T06:44:59Z,2019-12-07T01:02:57Z,2672,520,520,Java,True,True,True,True,False,58,40,,58,40,520,master,29,4,4.0
+flashpixx/RRD-ANTLR4,AntLR 4 Railroad Diagram Generator,False,2016-02-23T23:38:48Z,2019-11-27T08:38:47Z,2017-05-24T14:52:27Z,29527,11,11,Java,False,True,True,False,True,4,0,GNU Lesser General Public License v3.0,4,0,11,master,5,6,4.0
+fooock/robots.txt,":robot: robots.txt as a service. Crawls robots.txt files, downloads and parses them to check rules through an API",False,2019-06-16T14:38:50Z,2019-12-14T00:00:59Z,2019-12-14T00:00:57Z,1988,13,13,Java,True,False,True,False,False,1,7,GNU General Public License v3.0,1,7,13,master,2,2,0.0
+ftomassetti/antlr-plus,A complement to ANTLR to get a model from your AST and transform it,False,2016-05-24T19:19:50Z,2018-12-14T12:20:04Z,2019-12-03T15:47:24Z,228,13,13,ANTLR,True,True,True,True,False,3,0,,3,0,13,master,3,5,13.0
+ftomassetti/python-ast,Python parser built using ANTLR,False,2016-02-20T09:01:41Z,2019-10-24T16:09:54Z,2016-02-21T16:04:08Z,21,33,33,ANTLR,True,True,True,True,False,12,2,Apache License 2.0,12,2,33,master,3,1,2.0
+ftomassetti/turin-programming-language,A static language for the JVM with sensible defaults,False,2015-08-28T13:05:10Z,2019-10-16T12:16:36Z,2015-11-27T15:06:55Z,2103,63,63,Java,True,True,True,True,False,9,39,Apache License 2.0,9,39,63,master,6,2,3.0
+gburdell/parser,Derived from https://sourceforge.net/projects/v2kparse,False,2011-12-14T17:28:43Z,2019-11-28T07:15:39Z,2015-09-10T23:23:23Z,6861,43,43,Java,True,True,True,True,False,12,0,,12,0,43,master,15,1,1.0
+georocket/georocket,🚀 GeoRocket - A high-performance data store for geospatial files.,False,2016-05-06T11:34:34Z,2019-12-03T15:52:08Z,2019-12-03T15:52:06Z,1968,39,39,Java,True,True,True,False,False,18,1,Apache License 2.0,18,1,39,master,7,1,2.0
+geosolutions-it/jai-ext,Java Advanced Imaging Open Source Replacement Wannabe,False,2012-09-25T08:47:49Z,2019-10-08T07:24:03Z,2019-10-07T08:22:49Z,24022,55,55,Java,True,False,True,True,True,30,41,Apache License 2.0,30,41,55,master,13,1,22.0
+goldmansachs/jdmn,A Java implementation of DMN,False,2018-01-22T15:49:55Z,2019-12-09T00:59:04Z,2019-11-16T18:26:52Z,4210,57,57,Java,True,True,True,True,True,20,0,Apache License 2.0,20,0,57,master,18,8,6.0
+google/graphicsfuzz,A testing framework for automatically finding and simplifying bugs in graphics shader compilers.,False,2018-09-24T16:31:05Z,2019-12-13T16:19:43Z,2019-12-13T16:22:09Z,8705,353,353,Java,True,True,True,True,False,53,107,Apache License 2.0,53,107,353,master,19,1,3.0
+graalvm/simplelanguage,A simple example language built using the Truffle API.,False,2015-04-30T22:58:08Z,2019-12-12T12:17:23Z,2019-11-26T14:56:20Z,1304,289,289,Java,True,True,True,False,False,103,18,Universal Permissive License v1.0,103,18,289,master,34,1,3.0
+graalvm/sulong,Obsolete repository. Moved to oracle/graal.,False,2016-01-18T10:12:52Z,2019-11-06T04:02:06Z,2018-12-05T11:05:28Z,11474,618,618,Java,True,True,True,True,False,61,10,Other,61,10,618,master,54,1,2.0
+graknlabs/graql,Graql: Grakn Query Language,False,2019-02-16T23:01:20Z,2019-12-09T14:36:56Z,2019-12-09T14:36:53Z,379,39,39,Java,True,False,True,True,False,15,39,GNU Affero General Public License v3.0,15,39,39,master,9,1,2.0
+graphql-java/graphql-java,GraphQL Java implementation,False,2015-07-06T06:52:20Z,2019-12-14T08:34:12Z,2019-12-13T23:50:32Z,5929,3885,3885,Java,True,True,True,True,False,700,96,MIT License,700,96,3885,master,220,4,4.0
+graphql-java/nadel,A GraphQL DSL and execution engine for distributed schemas,False,2018-02-13T06:24:16Z,2019-12-13T03:51:12Z,2019-12-13T03:51:09Z,1058,48,48,Java,True,True,True,True,False,6,5,MIT License,6,5,48,master,15,1,2.0
+gretard/sonar-tsql-plugin,T-SQL language plugin for SonarQube,False,2016-07-11T16:54:31Z,2019-10-11T15:38:37Z,2019-10-11T15:38:35Z,2049,42,42,Java,True,True,True,True,False,8,0,GNU General Public License v3.0,8,0,42,master,6,1,30.0
+groovy/groovy-eclipse,Groovy-Eclipse,False,2012-05-03T11:11:18Z,2019-12-13T23:59:39Z,2019-12-13T23:59:36Z,947026,528,528,Java,True,True,True,True,False,170,62,,170,62,528,master,53,2,4.0
+grosenberg/fluentmark,FluentMark -- Eclipse editor for Markdown content,False,2016-12-18T01:12:43Z,2019-10-05T15:40:23Z,2019-07-18T12:47:04Z,1797,19,19,Java,True,True,True,True,False,9,15,Eclipse Public License 1.0,9,15,19,master,4,2,21.0
+groupon/monsoon,An extensible monitor system that checks java processes and exposes metrics based on them.,False,2016-06-22T19:08:44Z,2019-11-21T01:34:57Z,2017-12-19T02:34:58Z,4853,27,27,Java,True,True,True,True,False,5,2,"BSD 3-Clause ""New"" or ""Revised"" License",5,2,27,master,5,13,6.0
+guidosalva/reactive-inspector,Eclipse plugin for debugging reactive programming,False,2014-10-29T21:33:33Z,2019-06-16T20:17:25Z,2018-10-30T16:12:02Z,69833,20,20,Java,True,True,True,True,True,3,0,,3,0,20,master,8,1,8.0
+gvlasov/inflectible,Template engine for natural languages that allows using grammatically appropriate word forms,False,2013-12-17T00:44:42Z,2019-10-11T19:56:53Z,2018-08-03T04:03:04Z,656,81,81,Java,True,True,True,True,False,2,21,MIT License,2,21,81,master,8,6,11.0
+haku/dlnatoad,Minimal DLNA media content server,False,2013-01-26T18:29:57Z,2019-11-03T13:16:29Z,2019-07-09T17:50:57Z,257,20,20,Java,True,True,True,True,False,9,6,,9,6,20,master,7,1,1.0
+harbby/sylph,Stream computing platform for bigdata,False,2018-06-19T05:26:24Z,2019-12-04T09:07:22Z,2019-12-11T07:56:22Z,5883,264,264,Java,True,True,True,True,False,125,24,Apache License 2.0,125,24,264,master,32,1,4.0
+hawkular/hawkular-alerts,Alerting subsystem for Hawkular,False,2015-01-21T19:59:08Z,2019-08-13T16:00:53Z,2019-11-04T10:35:56Z,6833,71,71,Java,True,True,True,False,False,37,10,Apache License 2.0,37,10,71,master,16,1,7.0
+hawkular/hawkular-metrics,Time Series Metrics Engine based on Cassandra,False,2014-03-13T10:07:30Z,2019-12-13T09:52:33Z,2019-08-07T23:54:25Z,22153,219,219,Java,False,True,True,False,False,77,12,Apache License 2.0,77,12,219,master,38,1,7.0
+herrmanntom/setlX,setlX is an interpreter for the high level programming-language SetlX (set language extended).,False,2014-12-20T18:36:35Z,2019-11-04T14:17:59Z,2019-06-16T11:32:34Z,26434,19,19,Java,True,True,True,False,False,12,0,Other,12,0,19,master,7,2,3.0
+hibernate/hibernate-hql-parser,New experimental parser for JP-QL queries,False,2012-05-02T15:18:20Z,2019-12-12T03:01:04Z,2018-10-23T11:57:30Z,754,24,24,Java,False,True,True,False,False,24,0,Other,24,0,24,master,28,2,2.0
+iamazy/elasticsearch-sql,parse sql into elasticsearch dsl with antlr4,False,2019-07-23T05:05:58Z,2019-12-14T09:03:15Z,2019-12-14T09:03:13Z,3259,28,28,Java,True,True,True,True,False,10,0,MIT License,10,0,28,master,2,4,12.0
+icode/ameba,useful full stack RESTful framework,False,2014-01-25T13:16:56Z,2019-06-05T05:03:57Z,2018-07-14T10:27:30Z,2041,38,38,Java,True,True,True,True,False,17,47,MIT License,17,47,38,master,9,1,2.0
+infraling/atomic,Software for multi-level annotation of linguistic corpora,False,2013-10-14T14:37:58Z,2018-12-10T08:49:48Z,2019-01-18T09:42:38Z,10238,17,17,Java,True,True,True,True,True,7,41,Apache License 2.0,7,41,17,development,9,1,5.0
+intuit/karate,Test Automation Made Simple,False,2017-02-07T15:59:17Z,2019-12-13T19:17:06Z,2019-12-12T10:17:34Z,16775,2609,2609,Java,True,True,True,True,True,673,37,MIT License,673,37,2609,master,164,2,2.0
+ivanyu/logical-rules-parser-antlr,A simple example of a parser built with ANTLR,False,2014-09-13T18:04:36Z,2019-09-18T17:26:17Z,2014-09-13T21:13:17Z,144,28,28,Java,True,False,True,False,False,16,0,MIT License,16,0,28,master,3,1,4.0
+jAngBridge/ts-parser,TypeScript parser generated with ANTLR4,False,2018-05-27T17:13:07Z,2019-09-25T08:12:06Z,2018-05-27T18:02:45Z,35,14,14,Java,True,True,True,True,False,7,0,MIT License,7,0,14,master,3,3,7.0
+jaeksoft/opensearchserver,Open-source Enterprise Grade Search Engine Software,False,2013-07-18T16:03:33Z,2019-12-14T00:30:28Z,2019-11-13T06:11:03Z,515572,354,354,Java,True,True,True,False,False,157,219,GNU General Public License v3.0,157,219,354,master,68,1,4.0
+janyou/ANTLR-Swift-Target,ANTLR Swift Target,False,2015-12-28T12:50:57Z,2019-12-05T14:32:08Z,2017-04-29T18:24:46Z,3259,21,21,Java,True,True,True,True,False,2,2,"BSD 2-Clause ""Simplified"" License",2,2,21,master,3,1,16.0
+java-decompiler/jd-gui,A standalone Java Decompiler GUI,False,2015-03-25T05:28:41Z,2019-12-14T15:45:55Z,2019-12-06T16:28:33Z,56985,7693,7693,Java,True,True,True,True,False,1546,84,GNU General Public License v3.0,1546,84,7693,master,468,1,5.0
+javamonkey/beetl2.0,beetl2.0,False,2013-09-04T01:19:06Z,2019-12-10T02:48:41Z,2019-05-06T13:24:22Z,19811,388,388,Java,True,True,True,True,False,111,43,"BSD 3-Clause ""New"" or ""Revised"" License",111,43,388,master,51,2,6.0
+jbclements/rust-antlr,An ANTLR grammar for Rust,False,2013-03-23T00:09:02Z,2019-09-18T13:22:40Z,2016-03-09T16:56:15Z,78,39,39,ANTLR,True,True,True,True,False,6,1,Apache License 2.0,6,1,39,master,2,4,0.0
+jbotsim/JBotSim,JBotSim Core Files,False,2017-03-12T11:57:53Z,2019-11-23T16:56:00Z,2019-11-29T14:26:38Z,2838,13,13,Java,True,True,True,True,False,15,20,GNU Lesser General Public License v3.0,15,20,13,master,6,1,1.0
+jcoplien/trygve,The trygve language project - Building a DCI-centric language from the ground up,False,2015-09-04T21:04:12Z,2019-11-05T03:12:33Z,2019-03-11T11:37:21Z,15909,74,74,Java,True,True,True,True,False,14,5,GNU General Public License v2.0,14,5,74,master,20,1,26.0
+jdbi/jdbi,"jdbi is designed to provide convenient tabular data access in Java; including templated SQL, parameterized and strongly typed queries, and Streams integration",False,2009-06-17T16:36:36Z,2019-12-10T14:49:04Z,2019-12-05T17:04:06Z,21904,1341,1341,Java,True,True,True,False,False,261,63,Other,261,63,1341,master,76,4,7.0
+jenkinsci/credentials-plugin,,False,2012-02-23T18:57:07Z,2019-12-13T16:38:48Z,2019-12-13T16:38:45Z,9671,46,46,Java,False,True,True,False,False,157,5,MIT License,157,5,46,master,127,1,1.0
+jknack/handlebars.java,Logic-less and semantic Mustache templates with Java,False,2012-05-27T03:22:22Z,2019-12-10T20:12:11Z,2019-11-11T09:19:59Z,3494,1099,1099,Java,True,True,True,True,True,312,63,Other,312,63,1099,master,63,2,7.0
+jkschneider/graphql-gremlin,,False,2016-04-07T19:42:21Z,2019-10-31T17:27:40Z,2016-08-27T16:52:13Z,114,27,27,Java,True,True,True,True,False,5,1,,5,1,27,master,4,1,8.0
+jplag/jplag,JPlag - Detecting Software Plagiarism,False,2015-03-21T20:06:19Z,2019-12-10T13:05:21Z,2019-11-26T10:27:27Z,950,353,353,Java,True,True,True,True,False,121,24,GNU General Public License v3.0,121,24,353,master,33,2,6.0
+json-template/JsonTemplate,A Java tool for generating json strings,False,2019-02-07T09:44:20Z,2019-09-18T02:41:57Z,2019-04-10T07:19:37Z,233,35,35,Java,True,True,True,True,False,6,3,Apache License 2.0,6,3,35,master,6,1,2.0
+jsurfer/JsonSurfer,A streaming JsonPath processor in Java,False,2015-03-19T15:02:44Z,2019-12-03T16:32:16Z,2019-12-03T16:32:13Z,983,151,151,Java,True,True,True,True,False,31,4,MIT License,31,4,151,master,11,1,6.0
+julianthome/inmemantlr,In Memory compilation of ANTLR grammars,False,2016-04-28T10:08:26Z,2019-12-09T16:36:40Z,2019-02-24T11:06:59Z,1002,59,59,Java,True,True,True,True,False,13,0,MIT License,13,0,59,master,10,16,14.0
+junrushao1994/Final-Fanatic-Facility,A C compiler with SSA-based backend optimzation,False,2015-06-11T08:35:43Z,2018-07-13T17:51:50Z,2016-03-19T15:16:56Z,2201,11,11,Java,True,True,True,True,False,0,0,,0,0,11,master,1,1,7.0
+jyukutyo/JVM-Math-Language,JVM Math Language with ANTLR and Graal,False,2017-07-08T05:45:24Z,2019-12-11T15:46:01Z,2019-02-27T02:37:38Z,30,12,12,Java,True,True,True,True,False,1,0,,1,0,12,master,2,1,5.0
+k3po/k3po,"""I am fluent in over 6 million forms of communication!""",False,2014-04-03T22:14:18Z,2019-12-11T21:10:30Z,2019-12-11T21:10:33Z,9891,32,32,Java,True,True,True,True,False,37,70,Apache License 2.0,37,70,32,develop,23,2,4.0
+kaiwaehner/ksql-fork-with-deep-learning-function,"Deep Learning UDF for KSQL, the Streaming SQL Engine for Apache Kafka with Elasticsearch Sink Example",False,2018-03-26T12:28:15Z,2019-12-06T07:45:42Z,2018-07-31T13:07:41Z,1921,53,53,Java,True,True,True,True,False,23,0,Apache License 2.0,23,0,53,master,5,1,8.0
+kasonyang/kalang,A statically-typed and null-safe program language,False,2016-02-12T01:50:58Z,2019-12-14T09:11:02Z,2019-11-24T13:26:31Z,8957,46,46,Java,True,True,True,True,False,11,1,MIT License,11,1,46,master,3,2,27.0
+kayler-renslow/arma-dialog-creator,A dialog/GUI creation tool for Arma 3.,False,2016-05-22T19:39:13Z,2019-11-04T16:41:44Z,2019-10-17T00:56:08Z,130807,51,51,Java,True,True,True,True,False,9,14,MIT License,9,14,51,master,23,2,11.0
+kiegroup/drools,"Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.",False,2011-02-18T08:37:05Z,2019-12-14T09:21:34Z,2019-12-13T17:47:53Z,165265,2637,2637,Java,False,True,True,False,False,1735,14,Apache License 2.0,1735,14,2637,master,277,1,45.0
+kmizu/nub,A Tiny Programming Language,False,2016-12-09T23:37:04Z,2018-11-21T06:17:59Z,2017-01-24T15:17:20Z,58,26,26,Java,True,True,True,True,False,8,2,,8,2,26,master,6,1,2.0
+kodokojo/kodokojo,Allow to manage Kodo Kojo project,False,2016-02-12T18:40:52Z,2019-12-05T08:02:50Z,2017-04-18T14:01:27Z,3834,48,48,Java,True,True,True,False,False,17,5,Other,17,5,48,master,7,1,1.0
+konsoletyper/teavm-flavour,Framework for writing client-side applications using TeaVM,False,2015-04-19T15:41:26Z,2019-12-05T15:22:38Z,2019-11-29T17:58:00Z,1705,65,65,Java,True,True,True,True,False,13,23,Other,13,23,65,master,9,1,1.0
+korpling/ANNIS,"ANNIS is an open source, versatile web browser-based search and visualization architecture for complex multilevel linguistic corpora with diverse types of annotation.",False,2012-08-17T08:03:40Z,2019-12-11T12:22:48Z,2019-12-11T12:23:01Z,182660,37,37,Java,True,True,True,False,True,25,99,Apache License 2.0,25,99,37,develop,14,4,1.0
+kotlinx/ast,Generic AST parsing library for kotlin multiplatform,False,2019-09-08T11:04:39Z,2019-12-02T07:48:53Z,2019-12-02T15:12:27Z,824,27,27,Java,True,True,True,True,False,2,2,Apache License 2.0,2,2,27,master,2,6,9.0
+latexdraw/latexdraw,A vector drawing editor for LaTeX (Java Swing/JavaFX).,False,2013-02-24T21:35:52Z,2019-12-12T09:00:50Z,2019-12-12T09:00:47Z,34109,263,263,Java,True,False,True,True,False,48,8,GNU General Public License v3.0,48,8,263,master,24,2,7.0
+lchaboud-restlet/antlr-sqlparser,SQL Parser with ANTLR v4,False,2014-09-17T12:51:12Z,2019-11-21T08:54:10Z,2014-09-29T12:44:20Z,444,24,24,Java,True,True,True,True,False,10,1,,10,1,24,master,6,1,2.0
+le-moulin-studio/java-semantic-diff,Experiment about a semantic-based diff tool for Java language.,False,2013-11-12T12:32:06Z,2019-06-25T09:22:01Z,2015-03-28T14:35:01Z,1515,14,14,ANTLR,True,True,True,True,False,1,3,GNU Affero General Public License v3.0,1,3,14,master,2,1,1.0
+lealone/Bats,面向OLTP、OLAP、批处理、流处理场景的大一统SQL引擎,False,2019-07-16T07:06:19Z,2019-12-05T10:20:54Z,2019-10-23T07:31:05Z,7128,124,124,Java,True,True,True,True,False,29,6,Apache License 2.0,29,6,124,master,14,4,4.0
+lensesio/kafka-connect-query-language,SQL for Kafka Connectors,False,2016-05-28T14:03:35Z,2019-12-06T09:41:47Z,2019-06-07T14:01:13Z,622,69,69,Java,True,True,True,True,False,22,6,Apache License 2.0,22,6,69,master,14,2,0.0
+liferay/liferay-portal,,False,2009-09-25T22:55:58Z,2019-12-14T14:00:18Z,2019-12-14T02:32:48Z,13420926,1489,1489,Java,False,True,True,False,False,2455,17,Other,2455,17,1489,master,166,1,16.0
+linkedin/Cubert,Fast and efficient batch computation engine for complex analysis and reporting of massive datasets on Hadoop,False,2014-09-28T21:20:37Z,2019-09-01T18:07:37Z,2015-08-24T23:32:06Z,2698,240,240,Java,True,True,True,False,True,63,5,Apache License 2.0,63,5,240,master,63,1,1.0
+linkedin/parseq,Asynchronous Java made easier,False,2012-09-18T16:43:59Z,2019-12-13T03:19:19Z,2019-11-14T02:46:53Z,4321,938,938,Java,True,True,True,True,False,246,54,Apache License 2.0,246,54,938,master,140,1,6.0
+linkedin/rest.li,"Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs.",False,2012-11-30T19:37:51Z,2019-12-14T04:32:01Z,2019-12-05T21:34:30Z,19425,1999,1999,Java,True,True,True,True,True,401,27,Other,401,27,1999,master,198,2,5.0
+linqs/psl,The PSL software from the University of Maryland and the University of California Santa Cruz,False,2011-07-29T20:24:30Z,2019-12-14T11:21:08Z,2019-12-06T20:58:42Z,6447,229,229,Java,True,True,True,True,False,83,46,Apache License 2.0,83,46,229,master,51,1,3.0
+lmcgrath/scotch-lang,,False,2014-11-29T05:28:45Z,2019-08-13T15:56:37Z,2015-05-18T21:53:01Z,2664,13,13,Java,True,True,True,True,True,4,0,,4,0,13,master,7,2,10.0
+locationtech/geowave,"GeoWave provides geospatial and temporal indexing on top of Accumulo, HBase, BigTable, Cassandra, and DynamoDB",False,2014-06-03T15:39:29Z,2019-12-12T22:19:54Z,2019-12-13T22:00:46Z,893941,363,363,Java,True,False,True,True,True,159,57,Apache License 2.0,159,57,363,master,70,1,2.0
+lockss/lockss-daemon,The central repository for the LOCKSS project ,False,2016-01-13T06:06:33Z,2019-12-14T00:02:13Z,2019-12-14T00:02:11Z,1028023,18,18,Java,True,True,True,True,False,10,4,Other,10,4,18,master,20,4,4.0
+logic-ng/LogicNG,The Next Generation Logic Library,False,2015-10-29T09:04:40Z,2019-11-25T15:00:32Z,2019-11-19T10:45:30Z,5543,33,33,Java,True,True,True,True,False,8,3,Apache License 2.0,8,3,33,master,8,2,5.0
+marcelganczak/swift-js-transpiler,Swift 3 to JavaScript/TypeScript/Java Transpiler. Built with antlr4. With live preview.,False,2016-12-18T17:01:55Z,2019-12-03T20:14:36Z,2018-03-22T14:39:55Z,6047,40,40,Java,True,True,True,True,False,5,2,MIT License,5,2,40,master,3,2,20.0
+maskarade/Android-Orma,An ORM for Android with type-safety and painless smart migrations,False,2015-11-09T00:26:20Z,2019-12-07T14:10:30Z,2018-12-03T12:55:31Z,3823,439,439,Java,True,True,True,False,True,49,23,Other,49,23,439,master,32,1,2.0
+melin/bigdata-sql-parser,"基于antlr4 解析器，支持spark sql, tidb sql, flink sql, Spark/flink jar 运行命令解析器",False,2018-07-12T01:28:59Z,2019-12-13T09:39:50Z,2019-11-26T10:17:42Z,789,32,32,Java,True,True,True,True,False,15,0,,15,0,32,master,8,6,25.0
+meridor/perspective-backend,Scalable multi-cloud management API and shell,False,2015-03-22T20:11:00Z,2019-05-26T02:42:49Z,2017-02-28T04:53:39Z,2264,13,13,Java,True,True,True,True,False,5,42,Apache License 2.0,5,42,13,master,2,4,3.0
+merrymercy/compiler2017,"A compiler for the course Compiler 2017 at ACM Class, SJTU.  ",False,2017-06-22T03:36:06Z,2019-12-12T05:40:26Z,2018-05-26T18:07:59Z,3241,48,48,Java,True,True,True,True,False,10,1,,10,1,48,master,5,1,8.0
+metadave/contact,Contact is a language and interactive shell for Riak.,False,2013-02-12T21:01:22Z,2017-07-19T19:42:30Z,2014-01-01T14:55:47Z,9770,15,15,Java,True,True,True,True,True,1,0,Apache License 2.0,1,0,15,master,5,1,9.0
+metadave/etp,An Erlang Term Parser for Java,False,2013-04-18T15:23:08Z,2019-04-12T07:32:34Z,2018-05-04T21:01:20Z,1236,14,14,Java,True,True,True,True,True,4,0,,4,0,14,master,2,1,7.0
+michel-kraemer/citeproc-java, A Citation Style Language (CSL) processor for Java.,False,2013-09-06T17:54:04Z,2019-12-14T11:25:17Z,2019-12-14T11:25:14Z,2524,57,57,Java,True,False,True,False,True,13,1,Apache License 2.0,13,1,57,master,6,2,2.0
+mike-lischke/vscode-antlr4,ANTLR4 language support for Visual Studio Code,False,2016-09-07T13:49:30Z,2019-12-10T00:33:50Z,2019-11-27T14:32:01Z,18338,131,131,ANTLR,True,False,True,False,False,17,13,MIT License,17,13,131,master,12,14,0.0
+mir1128/kafkasql,,False,2019-06-04T13:43:53Z,2019-07-18T11:39:18Z,2019-06-21T02:20:06Z,591,13,13,Java,True,True,True,True,False,2,0,Apache License 2.0,2,0,13,master,2,1,18.0
+mjwrites/Cafecito,,False,2017-10-14T00:44:42Z,2018-09-19T03:54:15Z,2017-10-27T04:00:15Z,41711,16,16,Java,True,True,True,True,False,9,0,,9,0,16,master,3,1,10.0
+mozafari/cliffguard,WorkloadMiner + CliffGuard (Robust Physical Designer for Databases),False,2015-03-10T18:41:52Z,2019-03-08T07:04:39Z,2017-01-23T16:23:58Z,73063,25,25,Java,True,True,True,True,False,5,0,,5,0,25,master,6,2,2.0
+mrc-ide/PhyDyn,PhyDyn: Epidemiological modelling in BEAST,False,2017-07-25T16:42:37Z,2019-08-23T16:50:32Z,2019-08-23T16:55:32Z,150495,12,12,Java,True,True,True,True,False,6,2,GNU General Public License v3.0,6,2,12,master,4,2,15.0
+multilang-depends/depends,"Depends is a fast, comprehensive code dependency analysis tool",False,2019-02-10T08:08:28Z,2019-12-12T02:01:33Z,2019-12-12T02:01:31Z,31299,53,53,Java,True,True,True,True,False,22,4,MIT License,22,4,53,master,11,11,14.0
+mzur/pretty-formula,A small Java library to parse mathematical formulas to LaTeX and display them as images,False,2014-12-04T15:55:44Z,2019-12-11T18:09:34Z,2014-12-04T16:59:41Z,4684,25,25,Java,True,True,True,False,False,8,0,MIT License,8,0,25,master,2,1,8.0
+nRo/DataFrame,DataFrame Library for Java,False,2016-03-11T21:32:37Z,2019-12-12T12:11:22Z,2019-08-21T11:23:44Z,756,24,24,Java,True,True,True,True,False,6,0,MIT License,6,0,24,master,5,1,2.0
+ndsev/zserio,"zero sugar, zero fat, zero serialization overhead",False,2018-07-19T08:44:23Z,2019-12-13T13:44:24Z,2019-12-13T13:44:21Z,20004,16,16,Java,True,False,True,False,True,8,61,"BSD 3-Clause ""New"" or ""Revised"" License",8,61,16,master,13,3,11.0
+nedap/archie,"OpenEHR library implementing ADL 2, AOM 2 and RM 1.0.4",False,2015-10-15T13:16:16Z,2019-07-11T12:56:06Z,2019-07-11T12:55:51Z,25656,12,12,Java,True,True,True,True,False,13,0,Apache License 2.0,13,0,12,master,11,10,8.0
+neo4j-contrib/neo4j-apoc-procedures,"Awesome Procedures On Cypher for Neo4j 3.x - codenamed ""apoc""                     If you like it, please ★ above ⇧            ",False,2016-02-25T08:33:37Z,2019-12-13T13:13:33Z,2019-12-13T11:59:09Z,24151,1032,1032,Java,True,True,True,False,True,259,294,Apache License 2.0,259,294,1032,3.5,72,1,1.0
+nielsbasjes/logparser,"Easy parsing of Apache HTTPD and NGINX access logs with Java, Hadoop, Hive, Pig, Flink, Beam, Storm, ...",False,2013-09-06T19:48:43Z,2019-11-28T15:39:03Z,2019-11-28T15:39:01Z,2086,81,81,Java,True,True,True,True,True,27,1,Apache License 2.0,27,1,81,master,6,1,1.0
+nielsbasjes/yauaa,Yet Another UserAgent Analyzer,False,2016-07-04T14:51:04Z,2019-12-13T11:42:36Z,2019-12-13T11:42:33Z,10930,339,339,Java,True,True,True,False,True,68,3,Apache License 2.0,68,3,339,master,32,2,45.0
+notaql/notaql,A cross-system data transformation language. ,False,2015-05-18T11:45:00Z,2019-03-19T12:36:57Z,2015-07-20T15:16:00Z,461,11,11,Java,True,True,True,True,False,3,13,Apache License 2.0,3,13,11,master,3,10,28.0
+novoda/sqlite-analyzer,Code generation for Java/Android database access.,False,2014-01-17T16:27:22Z,2019-11-21T09:10:06Z,2018-02-07T15:12:30Z,4799,64,64,Java,True,True,True,True,True,7,7,Other,7,7,64,master,58,1,1.0
+npgall/cqengine,Ultra-fast SQL-like queries on Java collections,False,2015-08-23T19:27:00Z,2019-12-13T02:47:34Z,2019-11-26T23:31:05Z,10790,1098,1098,Java,True,True,False,False,False,173,43,Apache License 2.0,173,43,1098,master,77,4,6.0
+nradov/abnffuzzer,Java fuzz testing library for implementations of ABNF rules such as IETF RFCs,False,2016-02-22T02:58:30Z,2019-12-07T06:08:57Z,2019-12-07T06:08:55Z,1149,26,26,Java,True,True,True,True,True,3,1,GNU Lesser General Public License v2.1,3,1,26,master,4,1,3.0
+nsacyber/GRASSMARLIN,Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. #nsacyber,False,2015-12-14T16:15:24Z,2019-12-12T08:40:48Z,2018-03-09T18:32:10Z,34984,504,504,Java,True,True,True,True,False,189,22,Other,189,22,504,master,85,1,1.0
+oasis-open/cti-stix2-json-schemas,OASIS TC Open Repository: Non-normative schemas and examples for STIX 2,False,2016-09-01T18:32:10Z,2019-12-09T14:28:38Z,2019-12-09T14:36:53Z,411,46,46,ANTLR,True,True,True,True,False,35,4,"BSD 3-Clause ""New"" or ""Revised"" License",35,4,46,master,17,1,0.0
+octopus-platform/joern,"A robust parser for C/C++ storing abstract syntax trees, control flow graphs and program dependence graphs in a neo4j graph database.",False,2013-05-02T22:44:29Z,2019-12-10T04:18:34Z,2019-05-10T12:42:53Z,23415,459,459,Java,True,True,True,False,False,119,44,GNU Lesser General Public License v3.0,119,44,459,dev,52,8,41.0
+odiszapc/nginx-java-parser,Nginx configuration parser based on ANTLR4 grammar,False,2014-09-06T09:53:32Z,2019-12-12T06:42:25Z,2019-09-23T09:13:36Z,113,132,132,Java,True,True,True,True,False,50,14,,50,14,132,master,11,1,8.0
+ojai/ojai,Core OJAI APIs,False,2015-09-24T21:31:34Z,2019-09-13T23:01:00Z,2019-11-13T05:36:27Z,771,44,44,Java,True,True,True,True,False,15,13,Apache License 2.0,15,13,44,master,10,1,1.0
+ontop/ontop,Ontop is a platform to query relational databases as Virtual RDF Knowledge Graphs using SPARQL. It's fast and is packed with features.,False,2013-07-22T11:00:27Z,2019-12-13T20:03:47Z,2019-12-13T17:06:06Z,202816,315,315,Java,True,True,True,True,False,107,66,Apache License 2.0,107,66,315,version4,49,2,9.0
+opencast/opencast,The free and open source solution for automated video capture and distribution at scale.,False,2017-12-23T13:54:35Z,2019-12-12T19:31:46Z,2019-12-13T15:23:33Z,157158,110,110,Java,True,True,True,False,False,105,75,Educational Community License v2.0,105,75,110,develop,28,1,2.0
+opencypher/openCypher,Specification of the Cypher property graph query language,False,2015-02-06T09:35:42Z,2019-12-13T08:21:38Z,2019-12-12T19:17:47Z,7012,417,417,Java,True,True,True,True,False,85,86,Apache License 2.0,85,86,417,master,66,2,8.0
+opendaylight/yangtools,Mirror of the OpenDaylight yangtools gerrit project,False,2014-01-29T23:14:37Z,2019-12-13T13:26:09Z,2019-12-13T13:26:06Z,30394,71,71,Java,False,False,True,False,False,87,0,Eclipse Public License 1.0,87,0,71,master,28,11,19.0
+opendistro-for-elasticsearch/sql,Open Distro for Elasticsearch SQL Plugin,False,2018-12-19T20:20:57Z,2019-12-13T08:20:10Z,2019-12-13T23:13:52Z,3574,194,194,Java,True,True,True,False,False,47,84,Apache License 2.0,47,84,194,master,22,2,5.0
+openstack/monasca-common,Monasca common classes,False,2014-07-15T13:54:25Z,2019-12-10T20:19:07Z,2019-12-12T09:58:16Z,1457,50,50,Java,False,False,False,False,False,21,0,Apache License 2.0,21,0,50,master,7,1,3.0
+openvalidation/openvalidation,"Compose validation rules in the language you use every day, openVALIDATION handles code creation for you.",False,2019-05-17T14:23:38Z,2019-12-09T13:58:55Z,2019-12-13T12:41:07Z,3551,18,18,Java,True,False,True,False,False,7,34,Other,7,34,18,master,5,1,16.0
+oracle/graal,GraalVM: Run Programs Faster Anywhere :rocket:,False,2016-01-14T17:11:35Z,2019-12-14T14:29:09Z,2019-12-14T13:18:51Z,1069272,11329,11329,Java,True,True,True,False,True,744,630,Other,744,630,11329,master,421,3,8.0
+osiam/osiam,MIT licensed Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2.,False,2015-04-28T09:14:40Z,2019-12-09T19:20:57Z,2019-09-19T13:11:43Z,3645,185,185,Java,True,True,True,False,False,47,44,MIT License,47,44,185,master,35,1,9.0
+osiam/server,[DEPRECATED] OSIAM server,False,2013-07-09T07:41:42Z,2019-10-16T20:07:07Z,2019-11-13T06:45:37Z,4362,32,32,Java,True,True,True,True,False,19,1,,19,1,32,master,18,1,10.0
+parrt/bookish,A tool that translates augmented markdown into HTML or latex,False,2018-01-23T20:09:41Z,2019-12-08T20:07:19Z,2019-04-08T18:45:33Z,1592,352,352,Java,True,True,True,True,False,16,1,MIT License,16,1,352,master,13,5,31.0
+parrt/cs652,University of San Francisco CS652 -- Programming Languages,False,2014-12-31T22:00:42Z,2019-12-01T10:49:40Z,2019-04-09T16:05:06Z,21468,74,74,Java,True,True,True,True,False,42,0,"BSD 3-Clause ""New"" or ""Revised"" License",42,0,74,master,18,19,19.0
+parrt/mini-markdown,Parser for small subset of markdown,False,2014-03-28T00:25:04Z,2018-08-29T14:42:30Z,2016-02-26T20:32:04Z,22,15,15,Java,True,True,True,True,False,4,2,"BSD 3-Clause ""New"" or ""Revised"" License",4,2,15,master,3,1,3.0
+patniemeyer/j2swift,Basic Java to Swift syntax converter,False,2015-04-09T00:56:43Z,2019-08-31T03:14:32Z,2017-11-16T04:46:37Z,127,65,65,Java,True,True,True,True,False,25,12,MIT License,25,12,65,master,8,1,5.0
+pcingola/BigDataScript,BigDataScript: Scirpting language for big data,False,2013-03-03T18:00:45Z,2019-12-12T13:52:18Z,2019-10-07T09:38:39Z,826908,83,83,Java,True,True,True,True,True,24,8,Apache License 2.0,24,8,83,master,10,2,149.0
+pgcodekeeper/pgcodekeeper,pgCodeKeeper is a PostgreSQL schema management tool,False,2017-12-11T14:35:14Z,2019-12-14T15:56:57Z,2019-12-12T08:42:06Z,55064,32,32,Java,True,True,True,True,False,3,11,Apache License 2.0,3,11,32,master,7,6,51.0
+phil3k3/flink-cep-dsl,"A simple pattern language for Apache Flink, inspired by Esper",False,2018-05-24T18:53:22Z,2019-09-26T22:14:19Z,2018-09-27T12:21:06Z,156,17,17,Java,True,True,True,True,False,7,1,Apache License 2.0,7,1,17,master,4,1,3.0
+plast-lab/doop-mirror,Mirror of Doop: https://bitbucket.org/yanniss/doop,False,2016-10-30T11:29:34Z,2019-10-04T11:15:52Z,2019-04-05T12:31:14Z,75589,18,18,Java,True,True,True,True,False,3,0,Other,3,0,18,master,9,1,0.0
+pmd/pmd,An extensible multilanguage static code analyzer.,False,2012-07-11T18:03:00Z,2019-12-14T15:11:22Z,2019-12-14T17:04:17Z,289216,2619,2619,Java,True,True,True,True,True,905,320,Other,905,320,2619,master,124,5,8.0
+premun/ingrid,Ingrid is a JetBrains MPS plugin allowing the import of ANTLRv4 grammars and creation of an MPS language automatically out of the grammar,False,2016-03-07T11:36:34Z,2019-08-15T19:12:13Z,2019-08-15T19:12:09Z,20607,16,16,Java,True,True,True,True,False,6,1,Apache License 2.0,6,1,16,master,7,14,8.0
+prestodb/presto,The official home of the Presto distributed SQL query engine for big data,False,2012-08-09T01:03:37Z,2019-12-14T14:45:31Z,2019-12-14T07:21:22Z,123829,9968,9968,Java,True,True,True,True,False,3421,982,Apache License 2.0,3421,982,9968,master,875,3,10.0
+prestosql/presto,"Official home of the community managed version of Presto, the distributed SQL query engine for big data, under the auspices of the Presto Software Foundation.",False,2019-01-19T06:38:14Z,2019-12-14T08:38:22Z,2019-12-14T15:28:01Z,84814,777,777,Java,True,False,True,True,False,338,477,Apache License 2.0,338,477,777,master,77,3,12.0
+prezi/spaghetti,Type-safe APIs for compile-to-JavaScript modules,False,2013-11-19T21:03:48Z,2019-12-05T08:02:39Z,2019-12-05T08:02:38Z,26311,31,31,Java,True,True,True,True,True,3,14,Other,3,14,31,master,155,1,20.0
+processing/processing4,Experimental Processing fork to attempt the move to JDK 11,False,2019-10-03T23:45:54Z,2019-12-12T20:55:59Z,2019-12-04T19:02:23Z,127500,43,43,Java,True,True,True,True,False,8,11,Other,8,11,43,master,8,3,5.0
+protobufel/protobuf-el,"ProtoBuf Enhancements and Java Parser, Fast FileSystem Scanning, Exec Plugin",False,2014-11-02T05:14:14Z,2019-01-28T06:53:14Z,2017-07-04T18:02:10Z,9448,11,11,Java,True,True,True,True,True,0,1,"BSD 3-Clause ""New"" or ""Revised"" License",0,1,11,master,2,2,15.0
+protostuff/protostuff-compiler,"Protobuf parser, java code and documentation generator",False,2015-03-21T22:07:04Z,2019-08-23T18:42:06Z,2019-12-08T02:09:15Z,1535,28,28,Java,True,True,True,True,False,20,11,Apache License 2.0,20,11,28,master,7,2,24.0
+pxb1988/dex2jar,Tools to work with android .dex and java .class files,False,2015-03-16T09:13:07Z,2019-12-14T07:22:41Z,2019-12-05T02:32:28Z,8684,6964,6964,Java,True,True,True,True,False,1388,279,Apache License 2.0,1388,279,6964,2.x,410,1,2.0
+pyros2097/GdxStudio,"An IDE for creating Games using libGDx and Java supported on all platforms Android, iOS, Desktop",False,2014-03-15T15:07:36Z,2019-09-18T19:45:27Z,2018-08-17T09:43:54Z,28322,38,38,Java,True,True,True,True,True,3,0,Apache License 2.0,3,0,38,master,14,1,4.0
+quarkusio/quarkus,Quarkus: Supersonic Subatomic Java. ,False,2018-07-06T00:44:20Z,2019-12-14T14:05:48Z,2019-12-14T16:30:46Z,39238,3472,3472,Java,True,True,True,True,False,557,786,Apache License 2.0,557,786,3472,master,140,2,2.0
+radkovo/jStyleParser,"jStyleParser is a CSS parser written in Java. It has its own application interface that is designed to allow an efficient CSS processing in Java and mapping the values to the Java data types. It parses CSS 2.1 style sheets into structures that can be efficiently assigned to DOM elements. It is intended be the primary CSS parser for the CSSBox library. While handling errors, it is user agent conforming according to the CSS specification.",False,2014-01-02T21:12:24Z,2019-11-28T01:28:36Z,2019-11-01T23:18:16Z,5441,57,57,Java,True,True,True,False,False,44,20,GNU Lesser General Public License v3.0,44,20,57,master,9,2,8.0
+raphydaphy/Q-Programming-Language,The Q Programming Language is a powerful and easy to read programming language with features from Assembly and C.,False,2015-11-17T07:36:48Z,2019-09-04T13:24:57Z,2015-11-24T22:20:39Z,33,11,11,Java,True,True,True,True,False,1,1,MIT License,1,1,11,master,5,1,1.0
+rapidminer/rapidminer-studio,"Easy-to-use visual environment for predictive analytics. No programming required.  RapidMiner is easily the most powerful and intuitive graphical user interface for the design of analysis processes. Forget sifting through code! You can also choose to run in batch mode. Whatever you prefer, RapidMiner has it all.",False,2015-08-26T10:57:00Z,2019-12-09T16:28:24Z,2019-11-07T10:38:58Z,59936,323,323,Java,True,True,True,False,False,182,6,GNU Affero General Public License v3.0,182,6,323,master,55,2,15.0
+raydac/mvn-golang,A Maven plugin allows to build Go applications with maven,False,2016-03-24T06:47:08Z,2019-12-08T14:07:47Z,2019-12-05T08:32:18Z,95158,94,94,Java,True,True,True,True,False,16,1,Apache License 2.0,16,1,94,master,8,1,0.0
+rdclark/pptx2html,PowerPoint OOXML (2007) to HTML conversion via ANTLR,False,2011-04-13T07:49:17Z,2019-06-30T09:34:08Z,2016-03-17T02:27:02Z,3072,15,15,Java,True,True,True,True,False,5,0,MIT License,5,0,15,master,2,2,8.0
+renekrie/querqy,Query preprocessor for Java-based search engines,False,2014-08-03T21:34:39Z,2019-12-07T22:19:58Z,2019-12-07T22:19:56Z,1645,83,83,Java,True,True,True,True,False,24,9,Apache License 2.0,24,9,83,master,15,1,5.0
+rewriting/tom,,False,2016-02-19T09:16:16Z,2019-11-26T21:52:28Z,2019-08-29T13:19:09Z,501925,20,20,Java,True,True,True,True,False,4,0,Other,4,0,20,v3,7,12,25.0
+robjg/oddjob,Oddjob scheduler and task execution framework.,False,2011-05-26T09:43:07Z,2019-10-03T20:15:45Z,2019-06-18T05:48:19Z,7634,11,11,Java,True,True,True,True,False,2,1,Other,2,1,11,master,5,1,1.0
+rockscript/rockscript,Resilient microservice integration,False,2017-07-17T14:35:29Z,2019-07-06T00:52:27Z,2018-01-31T08:28:33Z,2203,63,63,Java,True,True,True,True,False,9,4,Apache License 2.0,9,4,63,master,14,1,4.0
+rolandhe/thrift-enhancer,"支持thrift协议的纯java版的增强工具集合, pojo直接转换为thrift，json/xml转换为thrift",False,2019-01-12T12:12:59Z,2019-11-30T06:07:10Z,2019-01-24T14:06:15Z,142,11,11,Java,True,True,True,True,False,0,0,,0,0,11,master,1,1,6.0
+rpgleparser/rpgleparser,ANTLR parser for RPGLE,False,2015-02-20T02:57:25Z,2019-10-07T17:08:11Z,2019-03-02T02:20:45Z,1844,24,24,Java,True,True,True,True,False,16,9,Other,16,9,24,master,17,2,11.0
+runelite/runelite,Open source Old School RuneScape client,False,2016-04-30T20:48:02Z,2019-12-13T19:28:28Z,2019-12-14T05:29:28Z,29183,2595,2595,Java,True,False,True,True,False,3432,1655,"BSD 2-Clause ""Simplified"" License",3432,1655,2595,master,83,1,2.0
+s1ck/gdl,Graph Definition Language,False,2015-11-13T07:39:13Z,2019-12-05T09:56:23Z,2019-12-06T12:09:04Z,173,14,14,Java,True,True,True,True,False,10,9,Apache License 2.0,10,9,14,master,5,1,2.0
+s4ke/moar,Deterministic Regular Expressions with Backreferences,False,2016-06-21T12:04:23Z,2019-10-30T07:59:39Z,2019-10-30T08:00:43Z,1622,14,14,Java,True,True,True,True,True,2,13,MIT License,2,13,14,master,3,1,3.0
+sagap/sonar-solidity,SonarQube Analyzer for Solidity,False,2018-06-06T12:19:59Z,2019-07-04T13:08:26Z,2018-08-21T16:40:14Z,693,12,12,Java,True,True,True,True,False,5,14,GNU Lesser General Public License v3.0,5,14,12,master,0,1,40.0
+salesforce/mt-dynamo,,False,2018-02-02T18:17:17Z,2019-12-13T15:46:26Z,2019-12-13T15:46:28Z,3856,23,23,Java,True,True,True,True,False,11,5,Other,11,5,23,master,10,1,4.0
+sarahBuisson/kotlin-parser,,False,2017-10-17T15:22:18Z,2019-12-09T08:56:52Z,2017-11-06T23:00:42Z,21,14,14,ANTLR,True,True,True,True,False,1,3,,1,3,14,master,5,3,1.0
+satnam-sandhu/ASTGenerator,Simple AST generator for Java v8 using ANTLR v4.,False,2018-01-17T18:19:04Z,2019-08-16T12:22:45Z,2018-01-26T15:29:42Z,2831,11,11,Java,True,True,True,True,False,11,0,MIT License,11,0,11,master,0,1,6.0
+scarabhardware/ScarabIDE,,False,2014-07-31T23:19:55Z,2019-08-05T07:14:04Z,2015-01-06T01:23:50Z,15492,28,28,Java,True,True,True,True,False,7,0,,7,0,28,master,16,2,8.0
+sebastian-r-schmidt/logicaldecoding,Parses PostgreSQL Logical Decoding output,False,2016-02-26T13:26:37Z,2019-12-10T13:51:21Z,2016-08-31T06:28:10Z,167,17,17,Java,True,True,True,False,False,5,0,MIT License,5,0,17,master,1,1,2.0
+servicecatalog/development,An Enterprise-ready Cloud Services Management Software,False,2015-10-02T07:20:22Z,2019-10-21T17:00:56Z,2019-05-24T08:00:50Z,82614,37,37,Java,True,True,True,True,False,27,117,Apache License 2.0,27,117,37,master,36,2,4.0
+shlee89/athena,,False,2017-06-22T06:18:43Z,2019-11-27T16:18:49Z,2018-12-14T02:16:40Z,31719,11,11,Java,True,True,True,True,False,6,1,Apache License 2.0,6,1,11,master,2,2,8.0
+shmatov/antlr4-calculator,Simple antlr4 calculator.,False,2013-10-23T10:17:59Z,2019-12-02T07:37:14Z,2018-04-07T12:29:06Z,19,31,31,Java,True,True,True,True,False,20,0,,20,0,31,master,2,1,1.0
+shunfei/indexr,An open-source columnar data format designed for fast & realtime analytic with big data.,False,2016-12-23T04:10:04Z,2019-11-20T16:02:35Z,2019-11-13T02:55:50Z,2427,412,412,Java,True,True,True,True,True,123,8,Apache License 2.0,123,8,412,master,62,1,2.0
+siddhi-io/siddhi,Stream Processing and Complex Event Processing Engine,False,2014-04-21T09:51:36Z,2019-12-14T06:01:44Z,2019-12-13T07:10:45Z,38179,935,935,Java,True,True,True,False,True,399,54,Apache License 2.0,399,54,935,master,112,1,3.0
+siom79/martins-developer-world,Source code for my blog entries under martinsdeveloperworld.wordpress.com,False,2013-12-17T22:02:57Z,2019-05-26T13:37:04Z,2015-08-29T10:29:41Z,285,21,21,Java,True,True,True,True,False,15,0,,15,0,21,master,2,1,1.0
+skalogs/SkaETL,Open Source ETL designed for and dedicated to Log processing and transformation,False,2018-05-11T09:58:22Z,2019-12-11T01:42:53Z,2019-11-13T07:34:05Z,28544,37,37,Java,True,True,True,True,False,13,4,Apache License 2.0,13,4,37,master,8,2,5.0
+sleekbyte/tailor,Cross-platform static analyzer and linter for Swift.,False,2015-05-25T02:11:10Z,2019-12-13T16:39:21Z,2017-12-08T04:54:07Z,2788,1321,1321,Java,True,True,True,True,True,47,27,MIT License,47,27,1321,master,32,1,32.0
+slgobinath/Java-Helps-Java,Java projects from Java Helps.,False,2015-01-21T14:59:11Z,2019-12-10T13:32:05Z,2019-11-18T12:22:57Z,419,21,21,Java,True,True,True,True,False,135,2,,135,2,21,master,2,1,1.0
+smaccm/smaccm,,False,2013-08-13T14:59:47Z,2019-09-18T09:53:20Z,2019-05-08T20:53:32Z,389032,31,31,Java,True,True,True,True,False,21,28,"BSD 3-Clause ""New"" or ""Revised"" License",21,28,31,master,29,1,9.0
+smartdec/smartcheck, SmartCheck – a static analysis tool that detects vulnerabilities and bugs in Solidity programs (Ethereum-based smart contracts).,False,2018-02-05T15:00:56Z,2019-12-05T03:45:40Z,2019-10-25T20:31:28Z,1020,76,76,Java,True,True,True,True,False,18,3,GNU General Public License v3.0,18,3,76,master,10,2,13.0
+snowdrop/istio-java-api,"A Java API to generate Istio descriptors, inspired by Fabric8's kubernetes-model.",False,2017-12-05T20:52:34Z,2019-12-05T14:56:15Z,2019-11-18T20:49:48Z,18176,49,49,Java,True,True,True,True,False,20,8,Apache License 2.0,20,8,49,master,7,1,2.0
+solidityj/solidity-antlr4,Solidity grammar for ANTLR4,False,2016-12-23T02:21:26Z,2019-12-06T13:37:59Z,2019-09-21T07:39:32Z,68,64,64,ANTLR,True,True,True,True,False,24,2,MIT License,24,2,64,master,8,1,0.0
+spotify/heroic,The Heroic Time Series Database,False,2015-05-29T05:20:53Z,2019-12-13T15:17:57Z,2019-12-03T19:13:24Z,9361,744,744,Java,True,True,True,False,True,90,33,Apache License 2.0,90,33,744,master,52,1,2.0
+spring-projects/sts4,"The next generation of tooling for Spring Boot, including support for Cloud Foundry manifest files, Concourse CI pipeline definitions, BOSH deployment manifests, and more... - Available for Eclipse, Visual Studio Code, and Theia",False,2016-08-16T15:04:50Z,2019-12-14T17:29:27Z,2019-12-13T22:03:07Z,59049,298,298,Java,True,True,True,True,False,64,48,Other,64,48,298,master,53,1,5.0
+ssaarela/javersion,Data versioning library for Java,False,2013-10-11T23:43:59Z,2019-11-04T09:04:50Z,2017-09-30T10:00:45Z,2109,41,41,Java,True,True,True,True,False,4,1,Apache License 2.0,4,1,41,master,5,1,7.0
+stanford-futuredata/macrobase,MacroBase: A Search Engine for Fast Data,False,2015-12-17T21:36:20Z,2019-12-11T07:11:34Z,2019-12-10T22:07:02Z,27477,564,564,Java,True,True,True,True,False,105,25,Apache License 2.0,105,25,564,master,54,1,6.0
+strapdata/elassandra,Elassandra = Elasticsearch + Apache Cassandra,False,2015-08-22T13:52:08Z,2019-12-13T03:08:30Z,2019-12-11T22:50:30Z,456842,1343,1343,Java,True,True,True,False,False,167,14,Apache License 2.0,167,14,1343,v6.2.3-strapdata,87,2,8.0
+stratosphere/metadata-ms,"A library to store metadata of relational databases including the schema, statistics, and integrity constraints.",False,2015-03-11T15:27:17Z,2019-11-05T15:24:25Z,2018-08-07T15:07:49Z,2976,16,16,Java,True,True,True,True,False,9,5,Apache License 2.0,9,5,16,master,10,1,2.0
+streamsets/datacollector,StreamSets Data Collector - Continuous big data and cloud platform ingest infrastructure,False,2015-09-09T22:43:02Z,2019-12-14T00:52:27Z,2019-12-13T14:37:26Z,388338,875,875,Java,False,True,True,True,False,466,17,Apache License 2.0,466,17,875,master,99,2,6.0
+strongbox/strongbox,Strongbox is an artifact repository manager.,False,2013-08-01T23:27:37Z,2019-12-12T20:34:49Z,2019-12-13T12:22:13Z,18707,249,249,Java,True,True,True,False,False,370,203,Apache License 2.0,370,203,249,master,31,1,4.0
+subchen/jetbrick-template-1x,"Java template engine, quickly and easily.",False,2013-10-28T14:56:29Z,2019-06-17T10:28:01Z,2015-04-02T10:23:38Z,13471,72,72,Java,True,True,True,True,False,27,3,Apache License 2.0,27,3,72,master,12,2,7.0
+subchen/jetbrick-template-2x,Template Engine for Java,False,2014-10-08T01:51:50Z,2019-12-12T08:57:50Z,2019-01-25T08:58:39Z,607,328,328,Java,True,True,True,True,False,84,4,Other,84,4,328,master,25,2,2.0
+syhily/elasticsearch-jdbc,"A elasticsearch specified SQL interface on Java, no need to tweak your es instance.",False,2017-10-10T12:44:59Z,2019-11-21T08:53:49Z,2017-10-25T05:59:41Z,158,38,38,Java,True,False,True,False,False,20,2,MIT License,20,2,38,master,12,2,6.0
+teverett/antlr4example,A Java example for Antlr4,False,2017-07-15T23:19:00Z,2019-11-04T14:08:45Z,2019-06-16T17:16:15Z,29,24,24,ANTLR,True,True,True,True,False,11,0,,11,0,24,master,1,1,1.0
+teverett/jvmBASIC,A BASIC to JVM bytecode compiler,False,2012-12-29T17:36:22Z,2019-06-15T23:11:14Z,2019-06-15T21:59:34Z,1232,25,25,Java,True,True,True,True,False,6,1,,6,1,25,master,8,1,23.0
+tgvaughan/MASTER,A versatile simulation engine for stochastic population dynamics models.,False,2012-02-17T03:34:53Z,2019-10-24T06:43:24Z,2019-07-01T09:07:34Z,47351,15,15,Java,True,True,True,True,True,7,8,GNU General Public License v3.0,7,8,15,master,16,2,20.0
+tgvaughan/bacter,Bacterial phylogenetics in BEAST 2.,False,2013-07-11T11:47:43Z,2019-07-01T10:45:36Z,2019-07-01T10:46:57Z,39050,12,12,Java,True,True,True,False,True,6,2,GNU General Public License v3.0,6,2,12,master,13,1,5.0
+theonedev/onedev,Thoughtful git server. Easy to install and maintain.,False,2018-11-06T02:57:01Z,2019-12-14T12:19:39Z,2019-12-14T12:19:37Z,101687,184,184,Java,True,True,True,True,False,22,2,MIT License,22,2,184,master,12,17,19.0
+timolson/cointrader,"Coin Trader is a Java-based backend for algorithmically trading cryptocurrencies.  It provides data collection and export, complex event processing and triggering, and backtesting - paper trading - live trading.",False,2014-06-01T01:14:12Z,2019-12-13T10:34:18Z,2019-11-08T18:29:56Z,4909,272,272,Java,True,True,True,True,True,126,20,Other,126,20,272,master,67,3,4.0
+tinyfpga/yahdl,A programming language for FPGAs.,False,2018-01-23T05:51:47Z,2019-01-23T18:22:47Z,2018-05-05T21:18:44Z,56,15,15,Java,True,True,True,True,False,1,2,"BSD 3-Clause ""New"" or ""Revised"" License",1,2,15,master,5,1,7.0
+tjitze/RankPL,A qualitative probabilistic programming language based on ranking theory,False,2016-11-28T00:05:29Z,2019-10-20T03:57:52Z,2019-06-16T11:39:57Z,6705,97,97,Java,True,True,True,True,False,9,0,MIT License,9,0,97,master,5,1,5.0
+tlocke/zish,A data serialization format,False,2017-07-31T20:36:01Z,2019-11-21T15:03:18Z,2018-02-12T16:34:28Z,121,12,12,ANTLR,True,False,True,False,False,0,9,MIT License,0,9,12,master,2,1,0.0
+tomaszi1/Java2Cpp-Translator,App translates Java source code to C++ source code.,False,2014-05-12T18:07:47Z,2019-07-27T00:36:53Z,2014-09-04T18:30:07Z,1724,14,14,Java,True,True,True,True,False,11,0,,11,0,14,master,4,2,18.0
+tombaeyens/pwe,Principles of Workflow Engines,False,2015-06-15T18:35:40Z,2019-09-15T17:29:15Z,2015-09-28T06:19:23Z,585,12,12,Java,True,True,True,True,False,5,0,Other,5,0,12,master,2,1,6.0
+tomlj/tomlj,"A Java parser for Tom's Obvious, Minimal Language (TOML).",False,2019-05-07T21:40:04Z,2019-11-20T01:00:38Z,2019-05-10T16:17:44Z,145,11,11,Java,True,True,True,True,True,1,1,Apache License 2.0,1,1,11,master,0,2,8.0
+tugraz-isds/systemds,An open source ML system for the end-to-end data science lifecycle,False,2018-09-07T13:48:30Z,2019-12-14T14:15:03Z,2019-12-14T14:15:01Z,15138,27,27,Java,True,True,True,True,False,17,5,Apache License 2.0,17,5,27,master,9,1,22.0
+tunnelvisionlabs/antlr4,The highly-optimized fork of ANTLR 4 (see README),False,2014-11-01T17:23:22Z,2019-10-09T23:54:48Z,2019-11-22T07:05:26Z,59846,32,32,Java,True,True,True,False,False,8,11,Other,8,11,32,master,6,17,357.0
+tunnelvisionlabs/antlr4-grammar-postgresql,An ANTLR 4 lexer for PostgreSQL,False,2014-08-28T02:32:28Z,2019-08-29T09:39:16Z,2014-09-21T03:47:32Z,524,34,34,ANTLR,True,True,True,True,False,13,0,Other,13,0,34,master,4,1,3.0
+tunnelvisionlabs/antlr4cs,"The original, highly-optimized C# Target for ANTLR 4",False,2013-02-20T15:31:14Z,2019-12-09T16:30:01Z,2019-08-11T04:42:35Z,9792,330,330,Java,True,True,True,True,False,93,49,Other,93,49,330,master,50,24,355.0
+tunnelvisionlabs/antlrworks2,Tunnel Vision Labs' ANTLRWorks 2 IDE,False,2013-08-13T03:54:45Z,2019-04-26T21:02:54Z,2017-07-19T02:47:06Z,26934,30,30,Java,True,True,True,False,False,15,28,Other,15,28,30,master,10,6,132.0
+tunnelvisionlabs/goworks,Tunnel Vision Labs' GoWorks IDE,False,2014-03-20T19:24:51Z,2017-03-17T19:51:01Z,2017-03-17T15:45:21Z,33531,17,17,Java,True,True,True,True,False,9,8,Other,9,8,17,master,3,9,203.0
+twosigma/beakerx,Beaker Extensions for Jupyter Notebook,False,2013-12-03T14:16:36Z,2019-12-14T07:03:40Z,2019-12-11T17:28:51Z,117040,2299,2299,Java,True,True,True,False,False,355,317,Apache License 2.0,355,317,2299,master,126,2,18.0
+uber/uberscriptquery,"UberScriptQuery, a SQL-like DSL to make writing Spark jobs super easy",False,2017-03-08T15:43:47Z,2019-12-11T06:02:53Z,2019-03-07T19:31:08Z,688,46,46,Java,True,True,True,True,False,18,1,Other,18,1,46,master,1853,2,12.0
+ucarGroup/PoseidonX,poseidonX 是一个基于jstorm和flink的一体化实时计算服务平台,False,2018-07-23T09:51:51Z,2019-11-02T07:17:48Z,2018-07-23T10:50:13Z,6717,41,41,Java,True,True,True,True,False,40,2,Apache License 2.0,40,2,41,master,6,7,115.0
+utwente-fmt/vercors,The VerCors verification toolset for verifying parallel and concurrent software,False,2016-03-17T10:58:13Z,2019-12-13T09:25:24Z,2019-12-13T16:32:35Z,331137,15,15,Java,True,True,True,True,True,16,80,Other,16,80,15,dev,9,9,14.0
+uwol/proleap-vb6-parser,ProLeap ANTLR4-based parser for Visual Basic 6.0,False,2014-10-26T20:11:45Z,2019-11-22T08:12:12Z,2019-08-31T15:27:58Z,875,24,24,Java,True,True,True,False,False,13,1,MIT License,13,1,24,master,7,1,56.0
+vespa-engine/vespa,Vespa is an engine for low-latency computation over large data sets.,False,2016-06-03T20:54:20Z,2019-12-14T02:59:17Z,2019-12-14T09:22:56Z,105089,3010,3010,Java,True,True,True,False,False,358,95,Apache License 2.0,358,95,3010,master,160,1,4.0
+visallo/vertexium,High-security graph database,False,2015-03-06T19:27:47Z,2019-12-13T21:03:59Z,2019-12-12T19:36:05Z,17257,46,46,Java,True,True,True,False,True,30,24,Apache License 2.0,30,24,46,master,14,1,2.0
+viskell/viskell,Visual programming meets Haskell,False,2015-02-03T13:04:49Z,2019-12-06T20:11:48Z,2017-04-19T22:14:33Z,7121,622,622,Java,True,True,True,True,False,28,22,Other,28,22,622,master,41,1,1.0
+viz-centric/flair-query-language,Query parser and constructor for Flair,False,2019-02-23T09:14:57Z,2019-12-07T19:05:36Z,2019-12-07T19:05:34Z,158,15,15,Java,True,True,True,True,True,15,0,Apache License 2.0,15,0,15,master,21,2,8.0
+vlsi/iec61131-parser,Parsers for IEC 61131-3 grammar,False,2016-01-17T16:24:03Z,2019-08-27T11:45:32Z,2016-01-17T21:34:31Z,9,15,15,ANTLR,True,True,True,True,False,6,0,,6,0,15,master,7,1,1.0
+waterguo/antsdb,"AntsDB is a low latency, high concurrency, MySQL compliant SQL layer for HBase",False,2016-08-08T14:14:12Z,2019-11-30T06:48:11Z,2019-11-02T23:01:25Z,1153997,90,90,Java,True,True,True,True,False,19,10,GNU Lesser General Public License v3.0,19,10,90,master,9,2,18.0
+wurstscript/WurstScript,Programming language that compiles to Jass (the language to create Warcraft III Maps).,False,2012-02-29T18:00:46Z,2019-12-12T22:27:17Z,2019-12-13T00:04:34Z,110312,180,180,Java,True,False,True,False,False,26,115,Apache License 2.0,26,115,180,master,18,3,9.0
+xap/xap,"Distributed, highly-scalable, In Memory Data Grid",False,2016-08-09T03:21:26Z,2019-12-12T12:35:28Z,2019-12-14T15:14:38Z,51459,46,46,Java,False,True,True,False,False,28,0,Other,28,0,46,master,19,1,6.0
+xcesco/kripton,"A Java library for Android platform, to manage bean's persistence in SQLite, SharedPreferences, JSON, XML, Properties, Yaml, CBOR.",False,2015-02-26T00:24:15Z,2019-12-09T07:09:04Z,2019-12-04T17:49:53Z,35214,96,96,Java,True,True,True,True,True,12,2,Apache License 2.0,12,2,96,master,8,3,7.0
+xqdoc/xqdoc,An Antlr4 implementation of xqDoc for XQuery,False,2018-11-15T22:01:48Z,2019-11-08T19:11:53Z,2019-05-22T22:15:33Z,155,13,13,Java,True,True,True,True,False,2,0,Apache License 2.0,2,0,13,master,5,2,5.0
+xueqilsj/sas-grammar,SAS grammar rules in Antlr4,False,2015-02-08T23:11:57Z,2019-06-05T16:43:27Z,2015-03-02T03:19:07Z,180,12,12,ANTLR,True,True,True,True,False,6,3,,6,3,12,master,1,20,0.0
+yahoo/elide,Elide is a Java library that lets you stand up a GraphQL/JSON-API web service with minimal effort.,False,2015-10-12T17:55:01Z,2019-12-11T16:56:45Z,2019-12-14T04:16:02Z,7213,619,619,Java,True,True,True,False,False,140,120,Other,140,120,619,master,57,1,9.0
+yahoo/validatar,Functional testing framework for Big Data pipelines.,False,2015-05-07T00:32:11Z,2019-07-31T10:17:46Z,2019-05-11T00:05:07Z,949,33,33,Java,True,True,True,True,True,13,2,Apache License 2.0,13,2,33,master,13,1,1.0
+yahoo/yql-plus,"The YQL+ parser, execution engine, and source SDK.",False,2016-12-14T23:24:01Z,2019-12-14T14:49:35Z,2019-12-09T22:16:31Z,1267,26,26,Java,True,True,True,True,True,8,2,Apache License 2.0,8,2,26,master,15,1,19.0
+yegor256/eo,"EO, the Programming Language",False,2016-11-07T08:21:27Z,2019-12-12T11:13:59Z,2019-12-12T11:13:56Z,244,371,371,Java,True,True,True,True,True,32,53,MIT License,32,53,371,master,56,1,1.0
+yegor256/requs,Requirements Specifications Automated,False,2013-04-21T17:55:05Z,2019-12-12T11:25:46Z,2019-12-12T11:25:43Z,6057,24,24,Java,True,True,True,True,True,6,27,Other,6,27,24,master,8,1,2.0
+yesworkflow-org/yw-prototypes,Research prototype with tutorial.  Start here to learn about and try YesWorkflow.,False,2014-12-12T21:16:01Z,2019-11-21T23:23:28Z,2019-02-23T02:13:18Z,3035,26,26,Java,True,True,True,True,False,14,20,Other,14,20,26,master,19,1,0.0
+youseries/ureport,"UReport2 is a high-performance pure Java report engine based on Spring architecture, where complex Chinese-style statements and reports can be prepared by iterating over cells.",False,2017-06-05T07:48:31Z,2019-12-14T04:53:40Z,2019-10-29T14:46:18Z,99431,914,914,Java,True,True,True,True,False,461,99,Apache License 2.0,461,99,914,master,107,2,13.0
+youseries/urule,URULE是一款基于RETE算法的纯Java规则引擎，提供规则集、决策表、决策树、评分卡，规则流等各种规则表现工具及基于网页的可视化设计器，可快速开发出各种复杂业务规则。,False,2017-08-25T07:13:39Z,2019-12-13T08:17:36Z,2019-11-14T05:57:35Z,12420,881,881,Java,True,True,True,True,False,437,33,Apache License 2.0,437,33,881,master,82,2,18.0
+yshavit/antlr-denter,Helper class for generating python-like INDENT/DEDENT tokens with antlr4.,False,2014-02-06T06:41:32Z,2019-10-24T01:19:11Z,2018-06-11T06:29:43Z,98,49,49,Java,True,True,True,True,False,8,2,MIT License,8,2,49,master,5,4,7.0
+zendesk/maxwell,"Maxwell's daemon, a mysql-to-json kafka producer",False,2015-02-09T22:06:13Z,2019-12-14T09:03:29Z,2019-12-14T06:46:17Z,12933,1835,1835,Java,True,False,True,False,True,569,165,Other,569,165,1835,master,448,14,3.0
+zhegexiaohuozi/JsoupXpath,"A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java,ha ha.Just try it.",False,2014-03-20T09:46:17Z,2019-12-13T05:53:09Z,2019-03-07T03:36:15Z,1767,262,262,Java,True,True,True,True,False,111,10,Apache License 2.0,111,10,262,master,20,1,10.0
+zhunki/skyfire,,False,2018-03-07T06:12:52Z,2019-11-17T05:25:52Z,2018-10-15T09:39:43Z,138413,34,34,Java,True,True,True,True,False,8,0,,8,0,34,master,2,5,18.0
+zkoss/ztl,ZTL is an open source tool which can automatically test the ZK Framework with jUnit and Selenium frameworks. And it can now support vision test to test on ZK Framework. ,False,2011-09-23T02:17:14Z,2019-06-18T08:07:27Z,2019-06-18T08:07:25Z,8231,11,11,Java,False,True,True,True,False,18,0,,18,0,11,master,9,2,8.0
+zstackio/zstack,ZStack - the open-source IaaS software http://zstack.org (国内用户请至 http://zstack.io),False,2015-04-04T21:29:29Z,2019-12-14T11:57:46Z,2019-12-14T11:57:43Z,76737,793,793,Java,True,True,True,True,False,289,124,Apache License 2.0,289,124,793,master,111,1,12.0

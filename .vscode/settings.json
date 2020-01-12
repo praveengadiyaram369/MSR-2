@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "/home/praveen/anaconda3/bin/python",
+    "python.condaPath": "/home/praveen/anaconda3/bin/python",
     "git.enableCommitSigning": true
 }

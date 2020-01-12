@@ -12,17 +12,10 @@ from datetime import datetime
 csv_delimiter = ','
 
 
-def analyze_class_data():
-    for enter_method in settings.class_method_enter_list:
-        for exit_method in settings.class_method_exit_list:
-            if enter_method == exit_method:
-                settings.enter_and_exit += 1
-
-
 def get_pattern_list_data():
     listener_cnt = 0
     visitor_cnt = 0
-    for row in settings.class_list:
+    for row in settings.extended_class_list:
         if 'Listener' in row:
             listener_cnt += 1
         elif 'Visitor' in row:
@@ -32,19 +25,16 @@ def get_pattern_list_data():
 
 
 def get_method_list_data():
-    enter_method_cnt = 0
-    exit_method_cnt = 0
-    visit_method_cnt = 0
+    enter_method_cnt = len(settings.method_enter_list)
+    exit_method_cnt = len(settings.method_exit_list)
+    visit_method_cnt = len(settings.method_visit_list)
+    enter_exit_method_cnt = 0
 
-    for row in settings.method_list:
-        if row[0].startswith('enter'):
-            enter_method_cnt += 1
-        elif row[0].startswith('exit'):
-            exit_method_cnt += 1
-        elif row[0].startswith('visit'):
-            visit_method_cnt += 1
+    for exit_method_name in settings.method_exit_list:
+        if exit_method_name in settings.method_enter_list:
+            enter_exit_method_cnt += 1
 
-    return enter_method_cnt, exit_method_cnt, visit_method_cnt
+    return enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt
 
 
 def parse_for_methods(repo_path):
@@ -55,10 +45,8 @@ def parse_for_methods(repo_path):
         parser = JavaParser(stream)
         tree = parser.compilationUnit()
 
-        settings.class_data_init()
         walker = ParseTreeWalker()
         walker.walk(PatternListener(), tree)
-        analyze_class_data()
 
     except Exception as e:
         print("Unexpected error:  " + repo_path + "   " + str(e))
@@ -83,23 +71,24 @@ def walk_repositories(repos_path):
         repository_data = Repository(
             repo_name, total_file_cnt, total_java_files, listener_pattern_cnt, visitor_pattern_cnt, enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt)
 
-        if repo_index < 1:
-            for subdir, dirs, files in os.walk(os.path.join(repos_path, repo_name)):
-                for file in files:
-                    total_file_cnt += 1
-                    if file.endswith('.java'):
-                        total_java_files += 1
-                        parse_for_methods(os.path.join(subdir, file))
+        for subdir, dirs, files in os.walk(os.path.join(repos_path, repo_name)):
+            for file in files:
+                total_file_cnt += 1
+                if file.endswith('.java') and 'BaseListener' not in file and 'BaseVisitor' not in file:
+                    total_java_files += 1
+                    parse_for_methods(os.path.join(subdir, file))
 
-            listener_pattern_cnt, visitor_pattern_cnt = get_pattern_list_data()
-            enter_method_cnt, exit_method_cnt, visit_method_cnt = get_method_list_data()
-            repository_data.total_file_cnt = total_file_cnt
-            repository_data.total_java_files = total_java_files
-            repository_data.listener_pattern_cnt = listener_pattern_cnt
-            repository_data.visitor_pattern_cnt = visitor_pattern_cnt
-            repository_data.enter_method_cnt = enter_method_cnt
-            repository_data.exit_method_cnt = exit_method_cnt
-            repository_data.visit_method_cnt = visit_method_cnt
+        listener_pattern_cnt, visitor_pattern_cnt = get_pattern_list_data()
+        enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt = get_method_list_data()
+        
+        repository_data.total_file_cnt = total_file_cnt
+        repository_data.total_java_files = total_java_files
+        repository_data.listener_pattern_cnt = listener_pattern_cnt
+        repository_data.visitor_pattern_cnt = visitor_pattern_cnt
+        repository_data.enter_method_cnt = enter_method_cnt
+        repository_data.exit_method_cnt = exit_method_cnt
+        repository_data.visit_method_cnt = visit_method_cnt
+        
         repo_list.append(repository_data)
 
     return repo_list
@@ -124,11 +113,9 @@ def write_to_csv(repo_list):
                        + 'listener_pattern_cnt' + csv_delimiter
                        + 'visitor_pattern_cnt' + csv_delimiter
                        + 'enter_method_cnt' + csv_delimiter
-                       + 'enter_method_avg' + csv_delimiter
                        + 'exit_method_cnt' + csv_delimiter
-                       + 'exit_method_avg' + csv_delimiter
-                       + 'visit_method_cnt' + csv_delimiter
-                       + 'visit_method_avg' + '\n')
+                       + 'enter_exit_method_cnt' + csv_delimiter
+                       + 'visit_method_cnt' + '\n')
 
     for repo_data in repo_list:
         with open('mining_results/' + filename, 'a') as the_file:
@@ -140,6 +127,7 @@ def write_to_csv(repo_list):
                            + repo_data.visitor_pattern_cnt + csv_delimiter
                            + repo_data.enter_method_cnt + csv_delimiter
                            + repo_data.exit_method_cnt + csv_delimiter
+                           + repo_data.enter_exit_method_cnt + csv_delimiter
                            + repo_data.visit_method_cnt + '\n')
 
 
