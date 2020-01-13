@@ -6,3 +6,6 @@ Untitled.ipynb
 .vscode/settings.json
 .ipynb_checkpoints/Analyzing_repos-checkpoint.ipynb
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
+analysing_repositories_antlr4.log
+__pycache__/RepositoryData.cpython-37.pyc
+__pycache__/PatternListener.cpython-37.pyc

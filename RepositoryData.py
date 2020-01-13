@@ -1,11 +1,24 @@
 
 class Repository():
+    """[class Repository is used to encapsulate all the data points related to a repository]
+    """
 
-    num_of_repos = 0
+    def __init__(self, repo_id, repo_name, total_file_cnt, total_java_files, listener_pattern_cnt, visitor_pattern_cnt, enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt):
+        """[this constructor is used to initialize the values of a repository object and returns the same]
 
-    def __init__(self, repo_name, total_file_cnt, total_java_files, listener_pattern_cnt, visitor_pattern_cnt, enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt):
-        Repository.num_of_repos += 1
-        self._repo_id = Repository.num_of_repos
+        Arguments:
+            repo_id {[int]} -- [holds the unique id of the repository]
+            repo_name {[type]} -- [holds the name of the repository]
+            total_file_cnt {[type]} -- [holds the total count of files in a repository]
+            total_java_files {[type]} -- [holds the total count of the java files]
+            listener_pattern_cnt {[type]} -- [holds the count of listener patterns]
+            visitor_pattern_cnt {[type]} -- [holds the count of visitor patterns]
+            enter_method_cnt {[type]} -- [holds the count of enter methods in listener patterns]
+            exit_method_cnt {[type]} -- [holds the count of exit methods in listener patterns]
+            enter_exit_method_cnt {[type]} -- [holds the count of both enter and exit methods in listener patterns]
+            visit_method_cnt {[type]} -- [holds the count of visit methods in visitor patterns]
+        """
+        self._repo_id = repo_id
         self._repo_name = repo_name
         self._total_file_cnt = total_file_cnt
         self._total_java_files = total_java_files
@@ -16,6 +29,11 @@ class Repository():
         self._enter_exit_method_cnt = enter_exit_method_cnt
         self._visit_method_cnt = visit_method_cnt
 
+    """[Below all getter methods defined to get the value of Repository private attributes]
+    
+    Returns:
+        [int/str] -- [returns respective data points]
+    """
     @property
     def repo_id(self):
         return str(self._repo_id)
@@ -56,6 +74,8 @@ class Repository():
     def visit_method_cnt(self):
         return str(self._visit_method_cnt)
 
+    """[Below all setter methods defined to set the value of Repository private attributes]
+    """
     @repo_id.setter
     def repo_id(self, repo_id):
         self._repo_id = repo_id
@@ -95,5 +115,3 @@ class Repository():
     @visit_method_cnt.setter
     def visit_method_cnt(self, visit_method_cnt):
         self._visit_method_cnt = visit_method_cnt
-
-    
