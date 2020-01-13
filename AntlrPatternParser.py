@@ -10,7 +10,7 @@ from PatternListener import PatternListener
 from RepositoryData import Repository
 
 csv_delimiter = ','
-
+    
 
 def configure_log_settings():
     """[this method is primarily used to configure all log relating settings - default log level is INFO]
@@ -175,6 +175,7 @@ def walk_repositories(repos_path, repo_name_list, repo_done_name_list):
             repository_data.visitor_pattern_cnt = visitor_pattern_cnt
             repository_data.enter_method_cnt = enter_method_cnt
             repository_data.exit_method_cnt = exit_method_cnt
+            repository_data.enter_exit_method_cnt = enter_exit_method_cnt
             repository_data.visit_method_cnt = visit_method_cnt
 
             # _write repository object data to csv file

@@ -278,7 +278,6 @@ octopus
 oddjob
 ojai
 onedev
-ontop
 opencast
 openCypher
 opendb
@@ -437,3 +436,4 @@ zish
 zserio
 zstack
 ztl
+ontop
