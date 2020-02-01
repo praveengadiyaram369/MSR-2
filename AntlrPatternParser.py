@@ -45,9 +45,9 @@ def get_all_repo_names():
         [list] -- [holds the list of all repository names]
     """
     repo_name_list = []
-    with open('repo_names.txt', 'r') as f:
+    with open('repository_mining_data.csv', 'r') as f:
         for line in f:
-            repo_name_list.append(line.strip())
+            repo_name_list.append(line.strip().split(',')[0])
 
     return repo_name_list
 

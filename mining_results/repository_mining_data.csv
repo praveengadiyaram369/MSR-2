@@ -394,3 +394,10 @@ repo_id,repo_name,total_file_cnt,total_java_files,listener_pattern_cnt,visitor_p
 393,systemds,3785,1462,0,0,3,39,0,0
 394,systemml,4246,1730,0,0,11,92,0,0
 395,tailor,256,108,20,0,136,0,0,2
+396,tajo,4124,1860,0,1,0,0,0,1031
+397,teavm-flavour,585,468,0,1,0,0,0,40
+398,the-definitive-antlr4-reference-code,62,0,0,0,0,0,0,0
+399,theta,769,628,0,14,0,0,0,120
+400,thrift-enhancer,143,109,1,0,0,6,0,0
+401,tiny-language-antlr4,38,8,0,2,0,0,0,33
+repo_id,repo_name,total_file_cnt,total_java_files,listener_pattern_cnt,visitor_pattern_cnt,enter_method_cnt,exit_method_cnt,enter_exit_method_cnt,visit_method_cnt
