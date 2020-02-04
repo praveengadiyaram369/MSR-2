@@ -48,7 +48,7 @@ def get_all_repo_names():
     with open('repository_mining_data.csv', 'r') as f:
         for line in f:
             repo_name_list.append(line.strip().split(',')[0])
-
+    repo_name_list.pop(0)
     return repo_name_list
 
 
@@ -146,7 +146,7 @@ def walk_repositories(repos_path, repo_name_list, repo_done_name_list):
         if repo_name not in repo_done_name_list:
 
             logging.info(
-                f'Start processing repository -- {repo_name} with repo id - {repo_index}')
+                f'Start processing repository -- {repo_name} with repo id - {repo_index+1}')
 
             total_file_cnt = 0
             total_java_files = 0
@@ -163,7 +163,7 @@ def walk_repositories(repos_path, repo_name_list, repo_done_name_list):
                                          repo_name, total_file_cnt, total_java_files, listener_pattern_cnt, visitor_pattern_cnt, enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt)
 
             total_file_cnt, total_java_files = mine_repositories(
-                repos_path, repo_name)
+                repos_path, repo_name.split('/')[1])
 
             listener_pattern_cnt, visitor_pattern_cnt = get_pattern_list_data()
             enter_method_cnt, exit_method_cnt, enter_exit_method_cnt, visit_method_cnt = get_method_list_data()
@@ -182,7 +182,7 @@ def walk_repositories(repos_path, repo_name_list, repo_done_name_list):
             write_to_csv(repository_data, header=False)
 
             logging.info(
-                f'Done processing repository -- {repo_name} with repo id - {repo_index}')
+                f'Done processing repository -- {repo_name} with repo id - {repo_index+1}')
 
 
 def process_repositories(repo_path):
@@ -201,13 +201,13 @@ def process_repositories(repo_path):
 
 
 def write_to_csv(repo_data, header=False):
-    filename = 'repository_mining_data'
+    filename = 'repository_mining_results'
     filename += '.csv'
 
     if header is True:
         with open('mining_results/' + filename, 'a') as the_file:
             the_file.write('repo_id' + csv_delimiter
-                           + 'repo_name' + csv_delimiter
+                           + 'address' + csv_delimiter
                            + 'total_file_cnt' + csv_delimiter
                            + 'total_java_files' + csv_delimiter
                            + 'listener_pattern_cnt' + csv_delimiter
